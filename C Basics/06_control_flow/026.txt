@@ -1,0 +1,4 @@
+/*
+ * Problem 26 (06_control_flow)
+ * [Time: 2050s (~34m 10s)] Nested-loop pattern: print a hollow square/rectangle of size N.
+ */

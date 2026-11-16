@@ -1,0 +1,4 @@
+/*
+ * Problem 76 (15_build_ninja_meson)
+ * [Time: 5550s (~1h 32m 30s)] Meson & Ninja L76: strengthen install/layout and packaging readiness — apply to/refine problem #36 with a clear correctness criterion.
+ */

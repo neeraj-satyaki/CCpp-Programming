@@ -1,0 +1,4 @@
+/*
+ * Problem 1 (10_structs_unions_enums)
+ * [Time: 300s (~5m)] Define `struct Point` and compute distance between two points.
+ */

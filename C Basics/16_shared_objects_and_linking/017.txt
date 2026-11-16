@@ -1,0 +1,4 @@
+/*
+ * Problem 17 (16_shared_objects_and_linking)
+ * [Time: 1420s (~23m 40s)] Lookup symbols with `dlsym` and handle errors with `dlerror`.
+ */

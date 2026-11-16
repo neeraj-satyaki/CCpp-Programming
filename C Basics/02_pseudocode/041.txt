@@ -1,0 +1,4 @@
+/*
+ * Problem 41 (02_pseudocode)
+ * [Time: 3100s (~51m 40s)] Refine pseudocode to include explicit preconditions/postconditions and error codes (builds on #2, difficulty 41/100).
+ */

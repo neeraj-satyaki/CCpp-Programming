@@ -1,0 +1,4 @@
+/*
+ * Problem 24 (12_preprocessor_and_compilation)
+ * [Time: 1910s (~31m 50s)] Show name mangling absence in C and linkage basics with `nm` on objects.
+ */

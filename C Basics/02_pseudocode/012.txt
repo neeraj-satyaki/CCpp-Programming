@@ -1,0 +1,4 @@
+/*
+ * Problem 12 (02_pseudocode)
+ * [Time: 1070s (~17m 50s)] Write pseudocode to convert decimal to binary and store bits in order.
+ */

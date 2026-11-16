@@ -1,0 +1,4 @@
+/*
+ * Problem 1 (04_bits_and_bytes)
+ * [Time: 300s (~5m)] Print binary representation of an unsigned 8-bit value for inputs 0-255.
+ */

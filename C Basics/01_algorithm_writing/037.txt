@@ -1,0 +1,4 @@
+/*
+ * Problem 37 (01_algorithm_writing)
+ * [Time: 2820s (~47m)] Check if two strings are anagrams using frequency counting.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 79 (05_space_time_complexity)
+ * [Time: 5760s (~1h 36m)] Complexity L79: Document trade-offs for real-time or memory-constrained environments (extends concept from #39).
+ */

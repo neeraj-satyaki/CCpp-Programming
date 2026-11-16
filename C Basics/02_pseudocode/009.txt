@@ -1,0 +1,4 @@
+/*
+ * Problem 9 (02_pseudocode)
+ * [Time: 860s (~14m 20s)] Write pseudocode for linear search that returns all indices of a target value.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 81 (05_space_time_complexity)
+ * [Time: 5900s (~1h 38m 20s)] Complexity L81: Derive tight bounds and identify dominant terms (extends concept from #1).
+ */

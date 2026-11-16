@@ -1,0 +1,4 @@
+/*
+ * Problem 38 (02_pseudocode)
+ * [Time: 2890s (~48m 10s)] Write pseudocode for Kadane's algorithm (maximum subarray sum).
+ */

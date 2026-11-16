@@ -1,0 +1,4 @@
+/*
+ * Problem 32 (03_variables_and_data_types)
+ * [Time: 2470s (~41m 10s)] Show how `char` signedness can vary and write portable code.
+ */

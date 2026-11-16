@@ -1,0 +1,4 @@
+/*
+ * Problem 35 (18_cli_cat)
+ * [Time: 2680s (~44m 40s)] Work correctly when stdout is redirected to a file/pipe.
+ */

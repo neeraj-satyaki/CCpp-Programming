@@ -1,0 +1,4 @@
+/*
+ * Problem 78 (17_cli_ls)
+ * [Time: 5690s (~1h 34m 50s)] CLI ls L78: write tests comparing behavior to system `ls` — apply to/refine problem #38 with a clear correctness criterion.
+ */

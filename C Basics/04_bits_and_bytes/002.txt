@@ -1,0 +1,4 @@
+/*
+ * Problem 2 (04_bits_and_bytes)
+ * [Time: 370s (~6m 10s)] Print binary representation of a 32-bit unsigned integer without using `%b`.
+ */

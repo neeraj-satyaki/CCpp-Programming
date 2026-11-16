@@ -1,0 +1,4 @@
+/*
+ * Problem 43 (04_bits_and_bytes)
+ * [Time: 3240s (~54m)] Bits & Bytes L43: Optimize for fewer operations or branchless execution where safe (extends concept from #3).
+ */

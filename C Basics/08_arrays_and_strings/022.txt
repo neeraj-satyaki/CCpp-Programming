@@ -1,0 +1,4 @@
+/*
+ * Problem 22 (08_arrays_and_strings)
+ * [Time: 1770s (~29m 30s)] Find first non-repeating character in a string.
+ */

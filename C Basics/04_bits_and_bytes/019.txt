@@ -1,0 +1,4 @@
+/*
+ * Problem 19 (04_bits_and_bytes)
+ * [Time: 1560s (~26m)] Determine endianness of the machine by inspecting a multi-byte integer in memory.
+ */

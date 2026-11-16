@@ -1,0 +1,4 @@
+/*
+ * Problem 1 (05_space_time_complexity)
+ * [Time: 300s (~5m)] Measure how runtime of a simple loop grows for N = 10^3..10^7 (conceptual or timed).
+ */

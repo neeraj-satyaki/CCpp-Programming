@@ -1,0 +1,4 @@
+/*
+ * Problem 24 (16_shared_objects_and_linking)
+ * [Time: 1910s (~31m 50s)] Create multiple shared libs with inter-dependencies and link correctly.
+ */

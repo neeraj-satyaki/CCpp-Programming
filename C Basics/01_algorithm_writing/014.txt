@@ -1,0 +1,4 @@
+/*
+ * Problem 14 (01_algorithm_writing)
+ * [Time: 1210s (~20m 10s)] Generate the first N Fibonacci numbers iteratively with clear initialization steps.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 18 (01_algorithm_writing)
+ * [Time: 1490s (~24m 50s)] Count digits, sum digits, and compute product of digits for an integer.
+ */

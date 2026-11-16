@@ -1,0 +1,4 @@
+/*
+ * Problem 26 (12_preprocessor_and_compilation)
+ * [Time: 2050s (~34m 10s)] Use `#error` and `#warning` (where supported) for build-time checks.
+ */

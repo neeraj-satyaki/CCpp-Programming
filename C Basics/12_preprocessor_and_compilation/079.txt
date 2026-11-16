@@ -1,0 +1,4 @@
+/*
+ * Problem 79 (12_preprocessor_and_compilation)
+ * [Time: 5760s (~1h 36m)] Preprocessor & Compilation L79: handle third-party headers/libs integration cleanly — apply to/refine problem #39 with a clear correctness criterion.
+ */

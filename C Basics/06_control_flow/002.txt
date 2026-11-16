@@ -1,0 +1,4 @@
+/*
+ * Problem 2 (06_control_flow)
+ * [Time: 370s (~6m 10s)] Print multiplication table of N up to 10 in aligned columns.
+ */

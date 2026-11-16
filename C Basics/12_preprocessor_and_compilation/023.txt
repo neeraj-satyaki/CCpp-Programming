@@ -1,0 +1,4 @@
+/*
+ * Problem 23 (12_preprocessor_and_compilation)
+ * [Time: 1840s (~30m 40s)] Generate dependency files (`-MMD -MP`) conceptually and explain their role.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 51 (11_file_io)
+ * [Time: 3800s (~1h 3m 20s)] File I/O L51: add comprehensive error handling and return codes — apply to/refine problem #11 with a clear correctness criterion.
+ */

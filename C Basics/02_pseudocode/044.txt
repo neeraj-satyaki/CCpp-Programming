@@ -1,0 +1,4 @@
+/*
+ * Problem 44 (02_pseudocode)
+ * [Time: 3310s (~55m 10s)] Convert recursive pseudocode to iterative form and compare stack usage (builds on #5, difficulty 44/100).
+ */

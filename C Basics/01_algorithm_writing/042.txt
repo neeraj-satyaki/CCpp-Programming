@@ -1,0 +1,4 @@
+/*
+ * Problem 42 (01_algorithm_writing)
+ * [Time: 3170s (~52m 50s)] Evaluate a postfix expression using a stack (algorithm).
+ */

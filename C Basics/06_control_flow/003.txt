@@ -1,0 +1,4 @@
+/*
+ * Problem 3 (06_control_flow)
+ * [Time: 440s (~7m 20s)] Sum all even numbers and all odd numbers separately from 1 to N.
+ */

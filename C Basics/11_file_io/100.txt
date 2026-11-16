@@ -1,0 +1,4 @@
+/*
+ * Problem 100 (11_file_io)
+ * [Time: 7230s (~2h 0m 30s)] File I/O L100: capstone: harden into a reliable CLI file utility — apply to/refine problem #20 with a clear correctness criterion.
+ */

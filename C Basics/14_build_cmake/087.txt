@@ -1,0 +1,4 @@
+/*
+ * Problem 87 (14_build_cmake)
+ * [Time: 6320s (~1h 45m 20s)] CMake L87: improve maintainability with modular CMake files — apply to/refine problem #7 with a clear correctness criterion.
+ */

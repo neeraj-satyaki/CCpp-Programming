@@ -1,0 +1,4 @@
+/*
+ * Problem 24 (14_build_cmake)
+ * [Time: 1910s (~31m 50s)] Create interface library for header-only component.
+ */

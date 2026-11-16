@@ -1,0 +1,4 @@
+/*
+ * Problem 14 (03_variables_and_data_types)
+ * [Time: 1210s (~20m 10s)] Use `_Bool`/`stdbool.h` and show logical operations results.
+ */

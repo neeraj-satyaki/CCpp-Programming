@@ -1,0 +1,4 @@
+/*
+ * Problem 37 (16_shared_objects_and_linking)
+ * [Time: 2820s (~47m)] Test plugin discovery/loading from a directory path.
+ */

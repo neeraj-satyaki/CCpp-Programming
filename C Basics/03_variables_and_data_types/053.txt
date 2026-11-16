@@ -1,0 +1,4 @@
+/*
+ * Problem 53 (03_variables_and_data_types)
+ * [Time: 3940s (~1h 5m 40s)] Variables & Types L53: Make the solution portable across 32/64-bit platforms (extends concept from #13).
+ */

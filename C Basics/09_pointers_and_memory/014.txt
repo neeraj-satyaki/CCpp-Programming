@@ -1,0 +1,4 @@
+/*
+ * Problem 14 (09_pointers_and_memory)
+ * [Time: 1210s (~20m 10s)] Demonstrate NULL pointer checks and defensive programming.
+ */

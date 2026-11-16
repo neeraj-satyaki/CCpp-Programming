@@ -1,0 +1,4 @@
+/*
+ * Problem 6 (20_cli_arp_ifconfig)
+ * [Time: 650s (~10m 50s)] Display MTU and interface flags in human-readable form.
+ */

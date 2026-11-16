@@ -1,0 +1,4 @@
+/*
+ * Problem 81 (14_build_cmake)
+ * [Time: 5900s (~1h 38m 20s)] CMake L81: apply modern target-based CMake practices — apply to/refine problem #1 with a clear correctness criterion.
+ */

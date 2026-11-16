@@ -1,0 +1,4 @@
+/*
+ * Problem 24 (07_functions_and_recursion)
+ * [Time: 1910s (~31m 50s)] Flatten nested structure concept via recursion (e.g., nested arrays/dirs traversal logic).
+ */

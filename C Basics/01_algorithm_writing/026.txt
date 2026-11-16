@@ -1,0 +1,4 @@
+/*
+ * Problem 26 (01_algorithm_writing)
+ * [Time: 2050s (~34m 10s)] Compute the average of N numbers and also report how many are above average.
+ */

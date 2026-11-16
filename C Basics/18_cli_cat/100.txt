@@ -1,0 +1,4 @@
+/*
+ * Problem 100 (18_cli_cat)
+ * [Time: 7230s (~2h 0m 30s)] CLI cat L100: capstone: deliver polished, production-like cat clone subset — apply to/refine problem #20 with a clear correctness criterion.
+ */

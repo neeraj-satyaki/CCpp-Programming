@@ -1,0 +1,4 @@
+/*
+ * Problem 32 (07_functions_and_recursion)
+ * [Time: 2470s (~41m 10s)] Recursive linked-list length/count and search (conceptual with struct).
+ */

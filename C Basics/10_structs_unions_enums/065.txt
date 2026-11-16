@@ -1,0 +1,4 @@
+/*
+ * Problem 65 (10_structs_unions_enums)
+ * [Time: 4780s (~1h 19m 40s)] Structs/Unions/Enums L65: refactor into init/free/compare/print helper functions — apply to/refine problem #25 with a clear correctness criterion.
+ */

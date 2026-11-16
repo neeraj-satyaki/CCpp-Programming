@@ -1,0 +1,4 @@
+/*
+ * Problem 35 (03_variables_and_data_types)
+ * [Time: 2680s (~44m 40s)] Use designated initializers for arrays and observe default zeroing.
+ */

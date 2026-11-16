@@ -1,0 +1,4 @@
+/*
+ * Problem 43 (10_structs_unions_enums)
+ * [Time: 3240s (~54m)] Structs/Unions/Enums L43: add validation/invariant checks for all fields — apply to/refine problem #3 with a clear correctness criterion.
+ */

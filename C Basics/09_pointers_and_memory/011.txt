@@ -1,0 +1,4 @@
+/*
+ * Problem 11 (09_pointers_and_memory)
+ * [Time: 1000s (~16m 40s)] Allocate 2D array dynamically (array of pointers) and free correctly.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 26 (19_cli_cd)
+ * [Time: 2050s (~34m 10s)] Source a simple rc/init file to set initial directory or aliases (concept).
+ */

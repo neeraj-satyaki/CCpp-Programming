@@ -1,0 +1,4 @@
+/*
+ * Problem 2 (07_functions_and_recursion)
+ * [Time: 370s (~6m 10s)] Create a function `is_prime(n)` and use it to print primes in a range.
+ */

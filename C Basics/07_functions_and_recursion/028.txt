@@ -1,0 +1,4 @@
+/*
+ * Problem 28 (07_functions_and_recursion)
+ * [Time: 2190s (~36m 30s)] Variadic-like behavior simulation or callback-based function design in C.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 28 (05_space_time_complexity)
+ * [Time: 2190s (~36m 30s)] String concatenation in loops: complexity pitfalls and efficient alternatives.
+ */

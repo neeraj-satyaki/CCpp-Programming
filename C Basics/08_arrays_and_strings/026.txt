@@ -1,0 +1,4 @@
+/*
+ * Problem 26 (08_arrays_and_strings)
+ * [Time: 2050s (~34m 10s)] Convert integer to string for any base (2-16).
+ */

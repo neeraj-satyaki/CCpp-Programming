@@ -1,0 +1,4 @@
+/*
+ * Problem 31 (12_preprocessor_and_compilation)
+ * [Time: 2400s (~40m)] Organize a small project directory for headers/sources/build outputs.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 25 (09_pointers_and_memory)
+ * [Time: 1980s (~33m)] Detect and avoid double free in a small example.
+ */

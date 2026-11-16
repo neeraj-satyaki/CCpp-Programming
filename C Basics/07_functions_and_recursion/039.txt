@@ -1,0 +1,4 @@
+/*
+ * Problem 39 (07_functions_and_recursion)
+ * [Time: 2960s (~49m 20s)] Reduce/fold-like function to aggregate array values.
+ */

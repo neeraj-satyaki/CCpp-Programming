@@ -1,0 +1,4 @@
+/*
+ * Problem 87 (11_file_io)
+ * [Time: 6320s (~1h 45m 20s)] File I/O L87: optimize seek patterns and minimize syscalls — apply to/refine problem #7 with a clear correctness criterion.
+ */

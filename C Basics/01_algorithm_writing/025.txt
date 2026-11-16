@@ -1,0 +1,4 @@
+/*
+ * Problem 25 (01_algorithm_writing)
+ * [Time: 1980s (~33m)] Find the maximum element in a list/array of N integers.
+ */

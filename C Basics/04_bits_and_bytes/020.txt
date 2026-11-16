@@ -1,0 +1,4 @@
+/*
+ * Problem 20 (04_bits_and_bytes)
+ * [Time: 1630s (~27m 10s)] Compute how many bytes are needed to represent a value (bit-length).
+ */

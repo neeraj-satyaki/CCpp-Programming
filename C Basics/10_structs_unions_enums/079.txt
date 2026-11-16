@@ -1,0 +1,4 @@
+/*
+ * Problem 79 (10_structs_unions_enums)
+ * [Time: 5760s (~1h 36m)] Structs/Unions/Enums L79: extend with dynamic resizing and robust error handling — apply to/refine problem #39 with a clear correctness criterion.
+ */

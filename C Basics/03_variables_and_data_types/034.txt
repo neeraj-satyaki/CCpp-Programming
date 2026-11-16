@@ -1,0 +1,4 @@
+/*
+ * Problem 34 (03_variables_and_data_types)
+ * [Time: 2610s (~43m 30s)] Demonstrate compound literals for basic types/arrays (C99+).
+ */

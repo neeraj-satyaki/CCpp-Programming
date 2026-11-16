@@ -1,0 +1,4 @@
+/*
+ * Problem 22 (02_pseudocode)
+ * [Time: 1770s (~29m 30s)] Write pseudocode to rotate an array left by K positions.
+ */

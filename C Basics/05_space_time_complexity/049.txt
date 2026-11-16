@@ -1,0 +1,4 @@
+/*
+ * Problem 49 (05_space_time_complexity)
+ * [Time: 3660s (~1h 1m)] Complexity L49: Document trade-offs for real-time or memory-constrained environments (extends concept from #9).
+ */

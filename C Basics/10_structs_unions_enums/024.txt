@@ -1,0 +1,4 @@
+/*
+ * Problem 24 (10_structs_unions_enums)
+ * [Time: 1910s (~31m 50s)] Implement a simple linked list node as struct.
+ */

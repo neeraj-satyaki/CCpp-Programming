@@ -1,0 +1,4 @@
+/*
+ * Problem 43 (18_cli_cat)
+ * [Time: 3240s (~54m)] CLI cat L43: handle I/O errors with precise diagnostics and exit codes — apply to/refine problem #3 with a clear correctness criterion.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 3 (14_build_cmake)
+ * [Time: 440s (~7m 20s)] Set project version and C standard via CMake settings.
+ */

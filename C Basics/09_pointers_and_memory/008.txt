@@ -1,0 +1,4 @@
+/*
+ * Problem 8 (09_pointers_and_memory)
+ * [Time: 790s (~13m 10s)] Dynamic allocation of single int with `malloc` and proper `free`.
+ */

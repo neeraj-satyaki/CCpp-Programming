@@ -1,0 +1,4 @@
+/*
+ * Problem 46 (01_algorithm_writing)
+ * [Time: 3450s (~57m 30s)] Find subarray with maximum sum (Kadane's algorithm) and return indices.
+ */

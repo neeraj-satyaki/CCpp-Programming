@@ -1,0 +1,4 @@
+/*
+ * Problem 20 (01_algorithm_writing)
+ * [Time: 1630s (~27m 10s)] Convert a non-negative integer from decimal to binary (algorithmic steps, no built-in conversion).
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 73 (08_arrays_and_strings)
+ * [Time: 5340s (~1h 29m)] Arrays & Strings L73: use dynamic memory safely for variable-size inputs — apply to/refine problem #33 with a clear correctness criterion.
+ */

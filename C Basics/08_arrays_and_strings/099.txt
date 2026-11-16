@@ -1,0 +1,4 @@
+/*
+ * Problem 99 (08_arrays_and_strings)
+ * [Time: 7160s (~1h 59m 20s)] Arrays & Strings L99: handle very large inputs efficiently — apply to/refine problem #19 with a clear correctness criterion.
+ */

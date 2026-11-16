@@ -1,0 +1,4 @@
+/*
+ * Problem 7 (03_variables_and_data_types)
+ * [Time: 720s (~12m)] Read a character and print its ASCII code; also print next character.
+ */

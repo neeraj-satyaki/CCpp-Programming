@@ -1,0 +1,4 @@
+/*
+ * Problem 27 (10_structs_unions_enums)
+ * [Time: 2120s (~35m 20s)] Represent rational number as struct and normalize fractions.
+ */

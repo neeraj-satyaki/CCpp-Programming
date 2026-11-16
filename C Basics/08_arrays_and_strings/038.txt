@@ -1,0 +1,4 @@
+/*
+ * Problem 38 (08_arrays_and_strings)
+ * [Time: 2890s (~48m 10s)] Find all permutations of characters in a string (small n).
+ */

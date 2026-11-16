@@ -1,0 +1,4 @@
+/*
+ * Problem 10 (18_cli_cat)
+ * [Time: 930s (~15m 30s)] Implement `-s` to squeeze repeated empty lines.
+ */

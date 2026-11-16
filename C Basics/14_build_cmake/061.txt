@@ -1,0 +1,4 @@
+/*
+ * Problem 61 (14_build_cmake)
+ * [Time: 4500s (~1h 15m)] CMake L61: apply modern target-based CMake practices — apply to/refine problem #21 with a clear correctness criterion.
+ */

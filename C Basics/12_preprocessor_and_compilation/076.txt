@@ -1,0 +1,4 @@
+/*
+ * Problem 76 (12_preprocessor_and_compilation)
+ * [Time: 5550s (~1h 32m 30s)] Preprocessor & Compilation L76: ensure portability across compilers/standards where possible — apply to/refine problem #36 with a clear correctness criterion.
+ */

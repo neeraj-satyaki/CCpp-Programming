@@ -1,0 +1,4 @@
+/*
+ * Problem 45 (01_algorithm_writing)
+ * [Time: 3380s (~56m 20s)] Compute prefix sums array and answer range-sum queries.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 94 (01_algorithm_writing)
+ * [Time: 6810s (~1h 53m 30s)] Find strongly connected components in a directed graph (Kosaraju/Tarjan).
+ */

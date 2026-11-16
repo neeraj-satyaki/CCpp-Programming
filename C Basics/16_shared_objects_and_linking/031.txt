@@ -1,0 +1,4 @@
+/*
+ * Problem 31 (16_shared_objects_and_linking)
+ * [Time: 2400s (~40m)] Use `nm -D` and `readelf -Ws` to inspect dynamic symbols.
+ */

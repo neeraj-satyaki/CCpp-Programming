@@ -1,0 +1,4 @@
+/*
+ * Problem 7 (04_bits_and_bytes)
+ * [Time: 720s (~12m)] Check if a number is a power of two using bitwise trick.
+ */

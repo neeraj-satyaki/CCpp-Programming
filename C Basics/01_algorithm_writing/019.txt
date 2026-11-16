@@ -1,0 +1,4 @@
+/*
+ * Problem 19 (01_algorithm_writing)
+ * [Time: 1560s (~26m)] Find all factors of a positive integer and classify it as perfect, abundant, or deficient.
+ */

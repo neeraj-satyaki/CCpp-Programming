@@ -1,0 +1,4 @@
+/*
+ * Problem 66 (02_pseudocode)
+ * [Time: 4850s (~1h 20m 50s)] Introduce modular pseudocode by decomposing into named procedures with contracts (builds on #27, difficulty 66/100).
+ */

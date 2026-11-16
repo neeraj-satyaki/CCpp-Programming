@@ -1,0 +1,4 @@
+/*
+ * Problem 43 (05_space_time_complexity)
+ * [Time: 3240s (~54m)] Complexity L43: Compare alternative algorithms and justify selection (extends concept from #3).
+ */

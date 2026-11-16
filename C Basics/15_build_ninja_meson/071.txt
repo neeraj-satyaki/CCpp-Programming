@@ -1,0 +1,4 @@
+/*
+ * Problem 71 (15_build_ninja_meson)
+ * [Time: 5200s (~1h 26m 40s)] Meson & Ninja L71: improve option handling and build configuration clarity — apply to/refine problem #31 with a clear correctness criterion.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 38 (16_shared_objects_and_linking)
+ * [Time: 2890s (~48m 10s)] Measure and compare binary sizes for static vs dynamic builds.
+ */

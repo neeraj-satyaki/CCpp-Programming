@@ -1,0 +1,4 @@
+/*
+ * Problem 19 (12_preprocessor_and_compilation)
+ * [Time: 1560s (~26m)] Create and use a simple static inline helper in header (C99).
+ */

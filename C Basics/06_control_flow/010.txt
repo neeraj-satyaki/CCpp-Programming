@@ -1,0 +1,4 @@
+/*
+ * Problem 10 (06_control_flow)
+ * [Time: 930s (~15m 30s)] Print a pyramid/diamond number pattern with correct spacing.
+ */

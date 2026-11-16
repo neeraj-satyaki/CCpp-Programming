@@ -1,0 +1,4 @@
+/*
+ * Problem 17 (08_arrays_and_strings)
+ * [Time: 1420s (~23m 40s)] Concatenate two strings safely into a buffer.
+ */

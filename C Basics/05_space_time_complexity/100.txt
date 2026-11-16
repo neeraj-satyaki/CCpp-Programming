@@ -1,0 +1,4 @@
+/*
+ * Problem 100 (05_space_time_complexity)
+ * [Time: 7230s (~2h 0m 30s)] Complexity L100: Capstone: produce a complexity report for a multi-stage pipeline (extends concept from #20).
+ */

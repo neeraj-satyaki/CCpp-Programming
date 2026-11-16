@@ -1,0 +1,4 @@
+/*
+ * Problem 56 (14_build_cmake)
+ * [Time: 4150s (~1h 9m 10s)] CMake L56: integrate testing/CI-friendly targets — apply to/refine problem #16 with a clear correctness criterion.
+ */

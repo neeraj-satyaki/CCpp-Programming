@@ -1,0 +1,4 @@
+/*
+ * Problem 32 (18_cli_cat)
+ * [Time: 2470s (~41m 10s)] Match selected GNU/coreutils-like behaviors and document deviations.
+ */

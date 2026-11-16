@@ -1,0 +1,4 @@
+/*
+ * Problem 52 (10_structs_unions_enums)
+ * [Time: 3870s (~1h 4m 30s)] Structs/Unions/Enums L52: handle alignment/padding and portability across compilers — apply to/refine problem #12 with a clear correctness criterion.
+ */

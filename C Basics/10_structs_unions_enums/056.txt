@@ -1,0 +1,4 @@
+/*
+ * Problem 56 (10_structs_unions_enums)
+ * [Time: 4150s (~1h 9m 10s)] Structs/Unions/Enums L56: optimize layout and memory usage — apply to/refine problem #16 with a clear correctness criterion.
+ */

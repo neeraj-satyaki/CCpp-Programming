@@ -1,0 +1,4 @@
+/*
+ * Problem 8 (18_cli_cat)
+ * [Time: 790s (~13m 10s)] Implement `-E` to display `$` at end of each line (subset).
+ */

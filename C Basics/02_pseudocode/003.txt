@@ -1,0 +1,4 @@
+/*
+ * Problem 3 (02_pseudocode)
+ * [Time: 440s (~7m 20s)] Write pseudocode to calculate factorial of N with input validation for negatives.
+ */

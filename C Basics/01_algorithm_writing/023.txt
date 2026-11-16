@@ -1,0 +1,4 @@
+/*
+ * Problem 23 (01_algorithm_writing)
+ * [Time: 1840s (~30m 40s)] Check whether a number is an Armstrong/narcissistic number for its digit length.
+ */

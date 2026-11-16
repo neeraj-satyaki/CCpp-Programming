@@ -1,0 +1,4 @@
+/*
+ * Problem 79 (04_bits_and_bytes)
+ * [Time: 5760s (~1h 36m)] Bits & Bytes L79: Handle unaligned or variable-length byte buffers robustly (extends concept from #39).
+ */

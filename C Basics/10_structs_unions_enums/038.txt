@@ -1,0 +1,4 @@
+/*
+ * Problem 38 (10_structs_unions_enums)
+ * [Time: 2890s (~48m 10s)] Memory-map-like file record to struct (conceptual, with bounds checks).
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 79 (09_pointers_and_memory)
+ * [Time: 5760s (~1h 36m)] Pointers & Memory L79: compare stack vs heap allocation trade-offs — apply to/refine problem #39 with a clear correctness criterion.
+ */

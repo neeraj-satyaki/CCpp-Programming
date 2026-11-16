@@ -1,0 +1,4 @@
+/*
+ * Problem 6 (04_bits_and_bytes)
+ * [Time: 650s (~10m 50s)] Count set bits using Brian Kernighan's algorithm.
+ */

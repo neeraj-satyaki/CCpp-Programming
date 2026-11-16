@@ -1,0 +1,4 @@
+/*
+ * Problem 49 (10_structs_unions_enums)
+ * [Time: 3660s (~1h 1m)] Structs/Unions/Enums L49: extend with dynamic resizing and robust error handling — apply to/refine problem #9 with a clear correctness criterion.
+ */

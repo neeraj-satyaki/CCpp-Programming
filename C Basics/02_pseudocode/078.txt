@@ -1,0 +1,4 @@
+/*
+ * Problem 78 (02_pseudocode)
+ * [Time: 5690s (~1h 34m 50s)] Design pseudocode that is robust to malformed input and partial failures (builds on #39, difficulty 78/100).
+ */

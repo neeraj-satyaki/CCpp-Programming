@@ -1,0 +1,4 @@
+/*
+ * Problem 34 (16_shared_objects_and_linking)
+ * [Time: 2610s (~43m 30s)] Explore ABI pitfalls (struct layout, compiler flags) and mitigations.
+ */

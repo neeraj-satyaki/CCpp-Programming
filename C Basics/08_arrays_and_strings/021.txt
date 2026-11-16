@@ -1,0 +1,4 @@
+/*
+ * Problem 21 (08_arrays_and_strings)
+ * [Time: 1700s (~28m 20s)] Remove leading/trailing/multiple intermediate spaces from a string.
+ */

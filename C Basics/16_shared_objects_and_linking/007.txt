@@ -1,0 +1,4 @@
+/*
+ * Problem 7 (16_shared_objects_and_linking)
+ * [Time: 720s (~12m)] Use `LD_LIBRARY_PATH` to run against non-system library path.
+ */

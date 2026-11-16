@@ -1,0 +1,4 @@
+/*
+ * Problem 52 (17_cli_ls)
+ * [Time: 3870s (~1h 4m 30s)] CLI ls L52: handle symlinks and special file types accurately — apply to/refine problem #12 with a clear correctness criterion.
+ */

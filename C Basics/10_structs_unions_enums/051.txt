@@ -1,0 +1,4 @@
+/*
+ * Problem 51 (10_structs_unions_enums)
+ * [Time: 3800s (~1h 3m 20s)] Structs/Unions/Enums L51: ensure safe string/memory handling in fields — apply to/refine problem #11 with a clear correctness criterion.
+ */

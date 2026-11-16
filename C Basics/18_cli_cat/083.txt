@@ -1,0 +1,4 @@
+/*
+ * Problem 83 (18_cli_cat)
+ * [Time: 6040s (~1h 40m 40s)] CLI cat L83: handle I/O errors with precise diagnostics and exit codes — apply to/refine problem #3 with a clear correctness criterion.
+ */

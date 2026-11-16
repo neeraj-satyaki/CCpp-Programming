@@ -1,0 +1,4 @@
+/*
+ * Problem 100 (08_arrays_and_strings)
+ * [Time: 7230s (~2h 0m 30s)] Arrays & Strings L100: build a capstone text/array processing mini-tool — apply to/refine problem #20 with a clear correctness criterion.
+ */

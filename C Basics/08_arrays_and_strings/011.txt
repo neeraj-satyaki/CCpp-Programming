@@ -1,0 +1,4 @@
+/*
+ * Problem 11 (08_arrays_and_strings)
+ * [Time: 1000s (~16m 40s)] Find second largest element without sorting.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 34 (15_build_ninja_meson)
+ * [Time: 2610s (~43m 30s)] Benchmark parallel builds with Ninja (`-j`).
+ */

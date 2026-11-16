@@ -1,0 +1,4 @@
+/*
+ * Problem 5 (12_preprocessor_and_compilation)
+ * [Time: 580s (~9m 40s)] Create include guards in a header file and explain purpose.
+ */

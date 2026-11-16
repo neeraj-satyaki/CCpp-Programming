@@ -1,0 +1,4 @@
+/*
+ * Problem 73 (11_file_io)
+ * [Time: 5340s (~1h 29m)] File I/O L73: prevent buffer overflows and validate all inputs — apply to/refine problem #33 with a clear correctness criterion.
+ */

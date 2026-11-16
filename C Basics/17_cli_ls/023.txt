@@ -1,0 +1,4 @@
+/*
+ * Problem 23 (17_cli_ls)
+ * [Time: 1840s (~30m 40s)] Implement inode display (`-i`-like) if available.
+ */

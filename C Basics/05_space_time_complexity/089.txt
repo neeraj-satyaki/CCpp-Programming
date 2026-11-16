@@ -1,0 +1,4 @@
+/*
+ * Problem 89 (05_space_time_complexity)
+ * [Time: 6460s (~1h 47m 40s)] Complexity L89: Document trade-offs for real-time or memory-constrained environments (extends concept from #9).
+ */

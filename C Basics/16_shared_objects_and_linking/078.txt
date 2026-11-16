@@ -1,0 +1,4 @@
+/*
+ * Problem 78 (16_shared_objects_and_linking)
+ * [Time: 5690s (~1h 34m 50s)] Shared Objects & Linking L78: optimize for size/performance trade-offs — apply to/refine problem #38 with a clear correctness criterion.
+ */

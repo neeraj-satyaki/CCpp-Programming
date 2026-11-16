@@ -1,0 +1,4 @@
+/*
+ * Problem 18 (12_preprocessor_and_compilation)
+ * [Time: 1490s (~24m 50s)] Use `extern` to share global variable across translation units correctly.
+ */

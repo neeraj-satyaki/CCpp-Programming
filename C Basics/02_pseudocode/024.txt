@@ -1,0 +1,4 @@
+/*
+ * Problem 24 (02_pseudocode)
+ * [Time: 1910s (~31m 50s)] Write pseudocode to check balanced parentheses using a stack.
+ */

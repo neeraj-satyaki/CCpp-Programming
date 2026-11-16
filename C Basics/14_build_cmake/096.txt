@@ -1,0 +1,4 @@
+/*
+ * Problem 96 (14_build_cmake)
+ * [Time: 6950s (~1h 55m 50s)] CMake L96: integrate testing/CI-friendly targets — apply to/refine problem #16 with a clear correctness criterion.
+ */

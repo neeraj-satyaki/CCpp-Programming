@@ -1,0 +1,4 @@
+/*
+ * Problem 88 (09_pointers_and_memory)
+ * [Time: 6390s (~1h 46m 30s)] Pointers & Memory L88: stress-test with edge sizes (0, 1, large) and realloc paths — apply to/refine problem #8 with a clear correctness criterion.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 24 (08_arrays_and_strings)
+ * [Time: 1910s (~31m 50s)] Implement substring search (naive).
+ */

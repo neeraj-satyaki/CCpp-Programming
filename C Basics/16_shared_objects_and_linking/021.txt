@@ -1,0 +1,4 @@
+/*
+ * Problem 21 (16_shared_objects_and_linking)
+ * [Time: 1700s (~28m 20s)] Demonstrate global symbol interposition concept (LD_PRELOAD overview).
+ */

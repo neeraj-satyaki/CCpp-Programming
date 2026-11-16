@@ -1,0 +1,4 @@
+/*
+ * Problem 87 (08_arrays_and_strings)
+ * [Time: 6320s (~1h 45m 20s)] Arrays & Strings L87: add fuzz/edge-case tests (empty, single element, all same) — apply to/refine problem #7 with a clear correctness criterion.
+ */

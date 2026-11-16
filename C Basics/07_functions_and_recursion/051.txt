@@ -1,0 +1,4 @@
+/*
+ * Problem 51 (07_functions_and_recursion)
+ * [Time: 3800s (~1h 3m 20s)] Functions & Recursion L51: add parameter validation and defined error behavior — apply to/refine problem #11 with a clear correctness criterion.
+ */

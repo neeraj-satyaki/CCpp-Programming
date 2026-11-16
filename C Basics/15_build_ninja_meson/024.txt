@@ -1,0 +1,4 @@
+/*
+ * Problem 24 (15_build_ninja_meson)
+ * [Time: 1910s (~31m 50s)] Build both library types where appropriate and manage naming.
+ */

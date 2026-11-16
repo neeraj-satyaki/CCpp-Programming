@@ -1,0 +1,4 @@
+/*
+ * Problem 10 (17_cli_ls)
+ * [Time: 930s (~15m 30s)] Show file type (regular, dir, link, etc.) in listing.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 7 (10_structs_unions_enums)
+ * [Time: 720s (~12m)] Use `typedef` with struct for cleaner type names.
+ */

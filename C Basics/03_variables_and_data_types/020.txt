@@ -1,0 +1,4 @@
+/*
+ * Problem 20 (03_variables_and_data_types)
+ * [Time: 1630s (~27m 10s)] Demonstrate `typedef` to create readable aliases for primitive types.
+ */

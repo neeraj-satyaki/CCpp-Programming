@@ -1,0 +1,4 @@
+/*
+ * Problem 36 (07_functions_and_recursion)
+ * [Time: 2750s (~45m 50s)] Function to safely parse integer from string with error reporting.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 14 (10_structs_unions_enums)
+ * [Time: 1210s (~20m 10s)] Bit-fields in struct for compact flags; inspect size.
+ */

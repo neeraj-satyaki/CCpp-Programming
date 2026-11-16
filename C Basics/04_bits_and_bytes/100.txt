@@ -1,0 +1,4 @@
+/*
+ * Problem 100 (04_bits_and_bytes)
+ * [Time: 7230s (~2h 0m 30s)] Bits & Bytes L100: Capstone: build a compact binary protocol encoder/decoder using bit operations (extends concept from #20).
+ */

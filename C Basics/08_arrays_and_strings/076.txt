@@ -1,0 +1,4 @@
+/*
+ * Problem 76 (08_arrays_and_strings)
+ * [Time: 5550s (~1h 32m 30s)] Arrays & Strings L76: write reusable functions with clear ownership of memory — apply to/refine problem #36 with a clear correctness criterion.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 42 (03_variables_and_data_types)
+ * [Time: 3170s (~52m 50s)] Variables & Types L42: Handle edge cases (min/max values, zero, negative, empty input) (extends concept from #2).
+ */

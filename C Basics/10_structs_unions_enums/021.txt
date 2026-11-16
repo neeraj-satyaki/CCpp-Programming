@@ -1,0 +1,4 @@
+/*
+ * Problem 21 (10_structs_unions_enums)
+ * [Time: 1700s (~28m 20s)] Serialize fixed-size struct to binary file and read it.
+ */

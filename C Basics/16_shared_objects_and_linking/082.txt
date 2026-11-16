@@ -1,0 +1,4 @@
+/*
+ * Problem 82 (16_shared_objects_and_linking)
+ * [Time: 5970s (~1h 39m 30s)] Shared Objects & Linking L82: handle runtime loading errors and fallbacks robustly — apply to/refine problem #2 with a clear correctness criterion.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 12 (09_pointers_and_memory)
+ * [Time: 1070s (~17m 50s)] Allocate contiguous 2D array dynamically and index it.
+ */

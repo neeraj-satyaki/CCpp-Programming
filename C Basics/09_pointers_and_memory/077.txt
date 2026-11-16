@@ -1,0 +1,4 @@
+/*
+ * Problem 77 (09_pointers_and_memory)
+ * [Time: 5620s (~1h 33m 40s)] Pointers & Memory L77: generalize with `void*` while preserving type safety patterns — apply to/refine problem #37 with a clear correctness criterion.
+ */

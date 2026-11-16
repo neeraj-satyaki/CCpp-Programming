@@ -1,0 +1,4 @@
+/*
+ * Problem 6 (09_pointers_and_memory)
+ * [Time: 650s (~10m 50s)] Pass array to function and compute sum via pointer.
+ */

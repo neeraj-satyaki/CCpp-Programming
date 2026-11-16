@@ -1,0 +1,4 @@
+/*
+ * Problem 1 (12_preprocessor_and_compilation)
+ * [Time: 300s (~5m)] Use `#define` for constants and print them in a program.
+ */

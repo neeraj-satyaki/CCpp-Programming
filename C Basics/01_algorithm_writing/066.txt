@@ -1,0 +1,4 @@
+/*
+ * Problem 66 (01_algorithm_writing)
+ * [Time: 4850s (~1h 20m 50s)] Compute minimum spanning tree using Kruskal's or Prim's algorithm.
+ */

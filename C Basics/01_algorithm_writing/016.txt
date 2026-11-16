@@ -1,0 +1,4 @@
+/*
+ * Problem 16 (01_algorithm_writing)
+ * [Time: 1350s (~22m 30s)] Find GCD of two integers using Euclid's algorithm.
+ */

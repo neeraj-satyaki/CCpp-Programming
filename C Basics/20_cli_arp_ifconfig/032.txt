@@ -1,0 +1,4 @@
+/*
+ * Problem 32 (20_cli_arp_ifconfig)
+ * [Time: 2470s (~41m 10s)] Handle IPv6 formatting and scope IDs correctly.
+ */

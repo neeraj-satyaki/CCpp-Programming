@@ -1,0 +1,4 @@
+/*
+ * Problem 45 (07_functions_and_recursion)
+ * [Time: 3380s (~56m 20s)] Functions & Recursion L45: ensure reentrancy/thread-safety considerations where relevant — apply to/refine problem #5 with a clear correctness criterion.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 36 (09_pointers_and_memory)
+ * [Time: 2750s (~45m 50s)] Use flexible array member in struct with dynamic allocation.
+ */

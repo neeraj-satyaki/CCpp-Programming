@@ -1,0 +1,4 @@
+/*
+ * Problem 78 (07_functions_and_recursion)
+ * [Time: 5690s (~1h 34m 50s)] Functions & Recursion L78: measure call depth and optimize stack usage — apply to/refine problem #38 with a clear correctness criterion.
+ */

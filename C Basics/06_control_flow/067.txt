@@ -1,0 +1,4 @@
+/*
+ * Problem 67 (06_control_flow)
+ * [Time: 4920s (~1h 22m)] Control Flow L67: refactor into small functions driven by control flow — apply to/refine problem #27 with a clear correctness criterion.
+ */

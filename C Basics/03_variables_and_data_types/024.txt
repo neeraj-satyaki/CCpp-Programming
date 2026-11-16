@@ -1,0 +1,4 @@
+/*
+ * Problem 24 (03_variables_and_data_types)
+ * [Time: 1910s (~31m 50s)] Safely compute average of many integers without intermediate overflow.
+ */

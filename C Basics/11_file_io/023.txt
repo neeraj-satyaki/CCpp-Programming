@@ -1,0 +1,4 @@
+/*
+ * Problem 23 (11_file_io)
+ * [Time: 1840s (~30m 40s)] Remove blank lines from a file producing cleaned output.
+ */

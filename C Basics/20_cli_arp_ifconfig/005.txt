@@ -1,0 +1,4 @@
+/*
+ * Problem 5 (20_cli_arp_ifconfig)
+ * [Time: 580s (~9m 40s)] Fetch and print IPv6 addresses for interfaces (where available).
+ */

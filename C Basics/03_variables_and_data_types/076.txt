@@ -1,0 +1,4 @@
+/*
+ * Problem 76 (03_variables_and_data_types)
+ * [Time: 5550s (~1h 32m 30s)] Variables & Types L76: Prevent undefined behavior and explain the safeguards (extends concept from #36).
+ */

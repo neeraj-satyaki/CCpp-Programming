@@ -1,0 +1,4 @@
+/*
+ * Problem 10 (09_pointers_and_memory)
+ * [Time: 930s (~15m 30s)] Resize dynamic array with `realloc` safely (handle failure).
+ */

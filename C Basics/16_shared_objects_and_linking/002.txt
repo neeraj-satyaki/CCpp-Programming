@@ -1,0 +1,4 @@
+/*
+ * Problem 2 (16_shared_objects_and_linking)
+ * [Time: 370s (~6m 10s)] Separate compilation: create `.o` files and link manually.
+ */

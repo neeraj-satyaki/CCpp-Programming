@@ -1,0 +1,4 @@
+/*
+ * Problem 5 (07_functions_and_recursion)
+ * [Time: 580s (~9m 40s)] Recursive factorial with base case validation.
+ */

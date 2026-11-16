@@ -1,0 +1,4 @@
+/*
+ * Problem 47 (03_variables_and_data_types)
+ * [Time: 3520s (~58m 40s)] Variables & Types L47: Compare two type choices and justify trade-offs (extends concept from #7).
+ */

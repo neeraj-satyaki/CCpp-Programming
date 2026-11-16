@@ -1,0 +1,4 @@
+/*
+ * Problem 5 (09_pointers_and_memory)
+ * [Time: 580s (~9m 40s)] Traverse array using pointer notation instead of indexing.
+ */

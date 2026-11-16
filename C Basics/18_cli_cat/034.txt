@@ -1,0 +1,4 @@
+/*
+ * Problem 34 (18_cli_cat)
+ * [Time: 2610s (~43m 30s)] Implement safe write loop handling partial writes to stdout.
+ */

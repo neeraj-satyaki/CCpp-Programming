@@ -1,0 +1,4 @@
+/*
+ * Problem 57 (04_bits_and_bytes)
+ * [Time: 4220s (~1h 10m 20s)] Bits & Bytes L57: Refactor into reusable bit-utility functions/macros with clear contracts (extends concept from #17).
+ */

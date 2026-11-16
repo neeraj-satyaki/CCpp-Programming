@@ -1,0 +1,4 @@
+/*
+ * Problem 45 (09_pointers_and_memory)
+ * [Time: 3380s (~56m 20s)] Pointers & Memory L45: handle alignment and strict aliasing safely — apply to/refine problem #5 with a clear correctness criterion.
+ */

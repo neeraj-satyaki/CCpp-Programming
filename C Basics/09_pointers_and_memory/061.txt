@@ -1,0 +1,4 @@
+/*
+ * Problem 61 (09_pointers_and_memory)
+ * [Time: 4500s (~1h 15m)] Pointers & Memory L61: add rigorous NULL/allocation-failure handling — apply to/refine problem #21 with a clear correctness criterion.
+ */

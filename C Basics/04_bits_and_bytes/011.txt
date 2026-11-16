@@ -1,0 +1,4 @@
+/*
+ * Problem 11 (04_bits_and_bytes)
+ * [Time: 1000s (~16m 40s)] Compute bitwise AND, OR, XOR, NOT for two integers and display in hex/binary.
+ */

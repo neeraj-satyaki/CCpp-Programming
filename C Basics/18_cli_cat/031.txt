@@ -1,0 +1,4 @@
+/*
+ * Problem 31 (18_cli_cat)
+ * [Time: 2400s (~40m)] Validate option parsing and report unknown options.
+ */

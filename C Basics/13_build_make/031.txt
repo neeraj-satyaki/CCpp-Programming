@@ -1,0 +1,4 @@
+/*
+ * Problem 31 (13_build_make)
+ * [Time: 2400s (~40m)] Create a template Makefile suitable for small C projects.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 84 (16_shared_objects_and_linking)
+ * [Time: 6110s (~1h 41m 50s)] Shared Objects & Linking L84: manage versioning and compatibility — apply to/refine problem #4 with a clear correctness criterion.
+ */

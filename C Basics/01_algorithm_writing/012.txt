@@ -1,0 +1,4 @@
+/*
+ * Problem 12 (01_algorithm_writing)
+ * [Time: 1070s (~17m 50s)] Check if an integer is a palindrome without converting it to a string.
+ */

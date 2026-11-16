@@ -1,0 +1,4 @@
+/*
+ * Problem 31 (04_bits_and_bytes)
+ * [Time: 2400s (~40m)] Gray code: convert binary to Gray and Gray to binary.
+ */

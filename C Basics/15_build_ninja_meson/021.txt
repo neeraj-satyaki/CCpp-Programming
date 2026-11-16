@@ -1,0 +1,4 @@
+/*
+ * Problem 21 (15_build_ninja_meson)
+ * [Time: 1700s (~28m 20s)] Compare Meson+Ninja incremental rebuild speed with Make (observation).
+ */

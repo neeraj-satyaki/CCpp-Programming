@@ -1,0 +1,4 @@
+/*
+ * Problem 12 (07_functions_and_recursion)
+ * [Time: 1070s (~17m 50s)] Recursive function to check palindrome string.
+ */

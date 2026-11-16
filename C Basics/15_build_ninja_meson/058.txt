@@ -1,0 +1,4 @@
+/*
+ * Problem 58 (15_build_ninja_meson)
+ * [Time: 4290s (~1h 11m 30s)] Meson & Ninja L58: harden with warnings, sanitizers, and strict modes — apply to/refine problem #18 with a clear correctness criterion.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 64 (08_arrays_and_strings)
+ * [Time: 4710s (~1h 18m 30s)] Arrays & Strings L64: optimize from O(n^2) to O(n)/O(n log n) where possible — apply to/refine problem #24 with a clear correctness criterion.
+ */

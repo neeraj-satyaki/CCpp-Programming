@@ -1,0 +1,4 @@
+/*
+ * Problem 19 (02_pseudocode)
+ * [Time: 1560s (~26m)] Write pseudocode for insertion sort.
+ */

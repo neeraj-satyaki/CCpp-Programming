@@ -1,0 +1,4 @@
+/*
+ * Problem 52 (12_preprocessor_and_compilation)
+ * [Time: 3870s (~1h 4m 30s)] Preprocessor & Compilation L52: eliminate macro hazards and prefer safer alternatives — apply to/refine problem #12 with a clear correctness criterion.
+ */

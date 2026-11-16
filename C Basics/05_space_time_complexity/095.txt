@@ -1,0 +1,4 @@
+/*
+ * Problem 95 (05_space_time_complexity)
+ * [Time: 6880s (~1h 54m 40s)] Complexity L95: Optimize space while maintaining asymptotic time (extends concept from #15).
+ */

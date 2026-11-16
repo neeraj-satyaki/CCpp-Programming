@@ -1,0 +1,4 @@
+/*
+ * Problem 2 (10_structs_unions_enums)
+ * [Time: 370s (~6m 10s)] Define `struct Student` and print formatted report card.
+ */

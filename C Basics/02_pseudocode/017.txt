@@ -1,0 +1,4 @@
+/*
+ * Problem 17 (02_pseudocode)
+ * [Time: 1420s (~23m 40s)] Write pseudocode for binary search (recursive) and specify base cases.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 69 (02_pseudocode)
+ * [Time: 5060s (~1h 24m 20s)] Optimize pseudocode for fewer passes/memory while preserving correctness (builds on #30, difficulty 69/100).
+ */

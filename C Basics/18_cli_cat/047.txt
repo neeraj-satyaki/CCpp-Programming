@@ -1,0 +1,4 @@
+/*
+ * Problem 47 (18_cli_cat)
+ * [Time: 3520s (~58m 40s)] CLI cat L47: refactor into clean, testable modules — apply to/refine problem #7 with a clear correctness criterion.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 15 (08_arrays_and_strings)
+ * [Time: 1280s (~21m 20s)] Find pair with given sum in a sorted array (two pointers).
+ */

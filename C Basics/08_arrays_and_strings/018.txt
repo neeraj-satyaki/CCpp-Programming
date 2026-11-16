@@ -1,0 +1,4 @@
+/*
+ * Problem 18 (08_arrays_and_strings)
+ * [Time: 1490s (~24m 50s)] Check if a string is palindrome (case-insensitive).
+ */

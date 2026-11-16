@@ -1,0 +1,4 @@
+/*
+ * Problem 18 (16_shared_objects_and_linking)
+ * [Time: 1490s (~24m 50s)] Unload plugin with `dlclose` and manage lifetimes safely.
+ */

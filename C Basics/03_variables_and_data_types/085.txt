@@ -1,0 +1,4 @@
+/*
+ * Problem 85 (03_variables_and_data_types)
+ * [Time: 6180s (~1h 43m)] Variables & Types L85: Measure and document memory footprint of chosen types (extends concept from #5).
+ */

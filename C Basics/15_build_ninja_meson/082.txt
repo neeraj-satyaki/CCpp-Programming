@@ -1,0 +1,4 @@
+/*
+ * Problem 82 (15_build_ninja_meson)
+ * [Time: 5970s (~1h 39m 30s)] Meson & Ninja L82: ensure correct dependency and include propagation — apply to/refine problem #2 with a clear correctness criterion.
+ */

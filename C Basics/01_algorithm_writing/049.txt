@@ -1,0 +1,4 @@
+/*
+ * Problem 49 (01_algorithm_writing)
+ * [Time: 3660s (~1h 1m)] Find middle node of a singly linked list in one pass.
+ */

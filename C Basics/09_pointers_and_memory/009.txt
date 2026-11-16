@@ -1,0 +1,4 @@
+/*
+ * Problem 9 (09_pointers_and_memory)
+ * [Time: 860s (~14m 20s)] Dynamic array allocation with `malloc`/`calloc`; initialize and print.
+ */

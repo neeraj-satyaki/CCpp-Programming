@@ -1,0 +1,4 @@
+/*
+ * Problem 10 (01_algorithm_writing)
+ * [Time: 930s (~15m 30s)] Calculate area and perimeter of a rectangle and detect invalid (non-positive) dimensions.
+ */

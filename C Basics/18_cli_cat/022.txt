@@ -1,0 +1,4 @@
+/*
+ * Problem 22 (18_cli_cat)
+ * [Time: 1770s (~29m 30s)] Support copying stdin to stdout with promptless behavior (classic cat).
+ */

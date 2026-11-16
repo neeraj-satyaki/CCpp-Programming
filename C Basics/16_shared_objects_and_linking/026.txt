@@ -1,0 +1,4 @@
+/*
+ * Problem 26 (16_shared_objects_and_linking)
+ * [Time: 2050s (~34m 10s)] Build a tiny plugin-based calculator (ops loaded from .so).
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 6 (12_preprocessor_and_compilation)
+ * [Time: 650s (~10m 50s)] Split a program into multiple `.c` and `.h` files and compile together.
+ */

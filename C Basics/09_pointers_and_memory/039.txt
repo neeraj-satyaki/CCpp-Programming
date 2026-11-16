@@ -1,0 +1,4 @@
+/*
+ * Problem 39 (09_pointers_and_memory)
+ * [Time: 2960s (~49m 20s)] Implement shallow vs deep free for nested pointer structures.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 33 (06_control_flow)
+ * [Time: 2540s (~42m 20s)] Print all Pythagorean triplets with values <= N.
+ */

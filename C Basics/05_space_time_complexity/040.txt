@@ -1,0 +1,4 @@
+/*
+ * Problem 40 (05_space_time_complexity)
+ * [Time: 3030s (~50m 30s)] Capstone analysis: choose best algorithm for a workload given constraints and justify with Big-O, constants, and memory.
+ */

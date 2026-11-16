@@ -1,0 +1,4 @@
+/*
+ * Problem 77 (16_shared_objects_and_linking)
+ * [Time: 5620s (~1h 33m 40s)] Shared Objects & Linking L77: improve modularity and plugin safety — apply to/refine problem #37 with a clear correctness criterion.
+ */

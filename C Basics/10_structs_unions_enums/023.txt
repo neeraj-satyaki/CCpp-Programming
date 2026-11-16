@@ -1,0 +1,4 @@
+/*
+ * Problem 23 (10_structs_unions_enums)
+ * [Time: 1840s (~30m 40s)] Function pointers inside struct to emulate methods/behavior.
+ */

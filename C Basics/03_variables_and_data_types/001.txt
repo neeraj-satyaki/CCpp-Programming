@@ -1,0 +1,4 @@
+/*
+ * Problem 1 (03_variables_and_data_types)
+ * [Time: 300s (~5m)] Declare `int`, `char`, `float`, `double` variables, initialize them, and print with correct format specifiers.
+ */

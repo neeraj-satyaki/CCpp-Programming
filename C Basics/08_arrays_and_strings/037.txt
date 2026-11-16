@@ -1,0 +1,4 @@
+/*
+ * Problem 37 (08_arrays_and_strings)
+ * [Time: 2820s (~47m)] Store and sort array of strings (names) lexicographically.
+ */

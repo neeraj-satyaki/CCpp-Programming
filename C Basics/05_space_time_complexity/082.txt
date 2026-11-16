@@ -1,0 +1,4 @@
+/*
+ * Problem 82 (05_space_time_complexity)
+ * [Time: 5970s (~1h 39m 30s)] Complexity L82: Provide best/average/worst-case analysis with example inputs (extends concept from #2).
+ */

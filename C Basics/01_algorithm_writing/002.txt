@@ -1,0 +1,4 @@
+/*
+ * Problem 2 (01_algorithm_writing)
+ * [Time: 370s (~6m 10s)] Write an algorithm to determine if an integer is even, odd, zero, positive, or negative in one pass of decisions.
+ */

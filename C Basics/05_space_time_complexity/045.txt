@@ -1,0 +1,4 @@
+/*
+ * Problem 45 (05_space_time_complexity)
+ * [Time: 3380s (~56m 20s)] Complexity L45: Optimize space while maintaining asymptotic time (extends concept from #5).
+ */

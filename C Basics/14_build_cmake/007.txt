@@ -1,0 +1,4 @@
+/*
+ * Problem 7 (14_build_cmake)
+ * [Time: 720s (~12m)] Create and link a static library target.
+ */

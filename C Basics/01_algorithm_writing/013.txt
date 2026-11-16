@@ -1,0 +1,4 @@
+/*
+ * Problem 13 (01_algorithm_writing)
+ * [Time: 1140s (~19m)] Compute factorial of N iteratively and state the largest N safe for 32-bit int.
+ */

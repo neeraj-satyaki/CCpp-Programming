@@ -1,0 +1,4 @@
+/*
+ * Problem 48 (08_arrays_and_strings)
+ * [Time: 3590s (~59m 50s)] Arrays & Strings L48: compare static vs dynamic array/string approaches — apply to/refine problem #8 with a clear correctness criterion.
+ */

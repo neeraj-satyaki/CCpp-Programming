@@ -1,0 +1,4 @@
+/*
+ * Problem 46 (05_space_time_complexity)
+ * [Time: 3450s (~57m 30s)] Complexity L46: Analyze recursion depth/stack usage and risk of overflow (extends concept from #6).
+ */

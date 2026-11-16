@@ -1,0 +1,4 @@
+/*
+ * Problem 88 (05_space_time_complexity)
+ * [Time: 6390s (~1h 46m 30s)] Complexity L88: Evaluate scalability for 10^6+ elements and propose improvements (extends concept from #8).
+ */

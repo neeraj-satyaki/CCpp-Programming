@@ -1,0 +1,4 @@
+/*
+ * Problem 49 (07_functions_and_recursion)
+ * [Time: 3660s (~1h 1m)] Functions & Recursion L49: handle large inputs without overflow/stack crash — apply to/refine problem #9 with a clear correctness criterion.
+ */

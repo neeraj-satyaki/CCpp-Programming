@@ -1,0 +1,4 @@
+/*
+ * Problem 73 (01_algorithm_writing)
+ * [Time: 5340s (~1h 29m)] Find majority element (> n/2 times) using Boyer-Moore voting algorithm.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 9 (17_cli_ls)
+ * [Time: 860s (~14m 20s)] Print permissions string (rwxrwxrwx) for each entry.
+ */

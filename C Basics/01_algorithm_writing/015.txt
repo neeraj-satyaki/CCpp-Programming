@@ -1,0 +1,4 @@
+/*
+ * Problem 15 (01_algorithm_writing)
+ * [Time: 1280s (~21m 20s)] Determine whether a number is prime using trial division up to sqrt(n).
+ */

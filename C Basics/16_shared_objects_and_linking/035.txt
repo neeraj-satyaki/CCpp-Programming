@@ -1,0 +1,4 @@
+/*
+ * Problem 35 (16_shared_objects_and_linking)
+ * [Time: 2680s (~44m 40s)] Compare startup/load-time linking vs lazy/runtime loading.
+ */

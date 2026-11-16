@@ -1,0 +1,4 @@
+/*
+ * Problem 49 (16_shared_objects_and_linking)
+ * [Time: 3660s (~1h 1m)] Shared Objects & Linking L49: test across different library path/config scenarios — apply to/refine problem #9 with a clear correctness criterion.
+ */

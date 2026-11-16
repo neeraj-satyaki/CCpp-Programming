@@ -1,0 +1,4 @@
+/*
+ * Problem 47 (07_functions_and_recursion)
+ * [Time: 3520s (~58m 40s)] Functions & Recursion L47: document preconditions/postconditions for each function — apply to/refine problem #7 with a clear correctness criterion.
+ */

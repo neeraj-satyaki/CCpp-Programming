@@ -1,0 +1,4 @@
+/*
+ * Problem 43 (17_cli_ls)
+ * [Time: 3240s (~54m)] CLI ls L43: enhance output formatting/alignment/readability — apply to/refine problem #3 with a clear correctness criterion.
+ */

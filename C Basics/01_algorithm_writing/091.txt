@@ -1,0 +1,4 @@
+/*
+ * Problem 91 (01_algorithm_writing)
+ * [Time: 6600s (~1h 50m)] Rabin-Karp rolling hash for substring search and collision handling idea.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 30 (04_bits_and_bytes)
+ * [Time: 2330s (~38m 50s)] Implement a fixed-size bitmap (set/test/clear) for N flags using an array of bytes.
+ */

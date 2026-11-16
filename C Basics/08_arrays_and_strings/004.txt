@@ -1,0 +1,4 @@
+/*
+ * Problem 4 (08_arrays_and_strings)
+ * [Time: 510s (~8m 30s)] Linear search: find first and last index of a key.
+ */

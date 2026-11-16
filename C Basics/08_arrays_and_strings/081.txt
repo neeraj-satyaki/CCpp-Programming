@@ -1,0 +1,4 @@
+/*
+ * Problem 81 (08_arrays_and_strings)
+ * [Time: 5900s (~1h 38m 20s)] Arrays & Strings L81: add bounds checking and buffer-overflow prevention — apply to/refine problem #1 with a clear correctness criterion.
+ */

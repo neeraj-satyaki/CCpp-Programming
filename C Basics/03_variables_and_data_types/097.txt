@@ -1,0 +1,4 @@
+/*
+ * Problem 97 (03_variables_and_data_types)
+ * [Time: 7020s (~1h 57m)] Variables & Types L97: Compare two type choices and justify trade-offs (extends concept from #17).
+ */

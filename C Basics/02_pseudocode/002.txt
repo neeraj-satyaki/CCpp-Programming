@@ -1,0 +1,4 @@
+/*
+ * Problem 2 (02_pseudocode)
+ * [Time: 370s (~6m 10s)] Write pseudocode to compute the minimum and maximum of three integers using nested conditionals.
+ */

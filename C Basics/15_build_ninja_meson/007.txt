@@ -1,0 +1,4 @@
+/*
+ * Problem 7 (15_build_ninja_meson)
+ * [Time: 720s (~12m)] Create shared library and link it to executable.
+ */

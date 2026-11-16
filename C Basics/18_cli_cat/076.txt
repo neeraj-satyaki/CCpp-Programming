@@ -1,0 +1,4 @@
+/*
+ * Problem 76 (18_cli_cat)
+ * [Time: 5550s (~1h 32m 30s)] CLI cat L76: support combined flags and stdin/file mixing thoroughly — apply to/refine problem #36 with a clear correctness criterion.
+ */

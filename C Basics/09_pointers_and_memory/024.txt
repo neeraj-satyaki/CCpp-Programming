@@ -1,0 +1,4 @@
+/*
+ * Problem 24 (09_pointers_and_memory)
+ * [Time: 1910s (~31m 50s)] Implement a simple singly linked list node create/insert/free.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 6 (18_cli_cat)
+ * [Time: 650s (~10m 50s)] Implement `-n` to number all output lines.
+ */

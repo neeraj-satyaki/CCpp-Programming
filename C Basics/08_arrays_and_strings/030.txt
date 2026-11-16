@@ -1,0 +1,4 @@
+/*
+ * Problem 30 (08_arrays_and_strings)
+ * [Time: 2330s (~38m 50s)] Transpose a matrix in-place for square matrix and out-of-place for rectangular.
+ */

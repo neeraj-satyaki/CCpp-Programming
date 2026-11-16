@@ -1,0 +1,4 @@
+/*
+ * Problem 82 (04_bits_and_bytes)
+ * [Time: 5970s (~1h 39m 30s)] Bits & Bytes L82: Generalize the solution for 8/16/32/64-bit widths (extends concept from #2).
+ */

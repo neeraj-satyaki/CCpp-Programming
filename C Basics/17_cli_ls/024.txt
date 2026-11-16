@@ -1,0 +1,4 @@
+/*
+ * Problem 24 (17_cli_ls)
+ * [Time: 1910s (~31m 50s)] Filter entries by simple pattern/glob (custom extension).
+ */

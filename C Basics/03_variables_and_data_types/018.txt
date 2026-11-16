@@ -1,0 +1,4 @@
+/*
+ * Problem 18 (03_variables_and_data_types)
+ * [Time: 1490s (~24m 50s)] Detect and handle invalid numeric input when using `scanf` return values.
+ */

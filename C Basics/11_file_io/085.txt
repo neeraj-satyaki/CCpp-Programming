@@ -1,0 +1,4 @@
+/*
+ * Problem 85 (11_file_io)
+ * [Time: 6180s (~1h 43m)] File I/O L85: handle binary/text mode and newline portability — apply to/refine problem #5 with a clear correctness criterion.
+ */

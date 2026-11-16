@@ -1,0 +1,4 @@
+/*
+ * Problem 20 (18_cli_cat)
+ * [Time: 1630s (~27m 10s)] Memory-map file input as alternative implementation (optional).
+ */

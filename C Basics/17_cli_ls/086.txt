@@ -1,0 +1,4 @@
+/*
+ * Problem 86 (17_cli_ls)
+ * [Time: 6250s (~1h 44m 10s)] CLI ls L86: ensure portability considerations (Linux-specific vs POSIX) — apply to/refine problem #6 with a clear correctness criterion.
+ */

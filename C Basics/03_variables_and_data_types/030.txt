@@ -1,0 +1,4 @@
+/*
+ * Problem 30 (03_variables_and_data_types)
+ * [Time: 2330s (~38m 50s)] Write a program that prints a variable's value, address, and size in a formatted report.
+ */

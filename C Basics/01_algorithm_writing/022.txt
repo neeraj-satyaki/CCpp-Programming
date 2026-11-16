@@ -1,0 +1,4 @@
+/*
+ * Problem 22 (01_algorithm_writing)
+ * [Time: 1770s (~29m 30s)] Compute power(x, n) using fast exponentiation (exponentiation by squaring).
+ */

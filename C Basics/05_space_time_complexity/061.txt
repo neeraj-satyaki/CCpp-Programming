@@ -1,0 +1,4 @@
+/*
+ * Problem 61 (05_space_time_complexity)
+ * [Time: 4500s (~1h 15m)] Complexity L61: Derive tight bounds and identify dominant terms (extends concept from #21).
+ */

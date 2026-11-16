@@ -1,0 +1,4 @@
+/*
+ * Problem 74 (18_cli_cat)
+ * [Time: 5410s (~1h 30m 10s)] CLI cat L74: optimize buffering and throughput for large inputs — apply to/refine problem #34 with a clear correctness criterion.
+ */

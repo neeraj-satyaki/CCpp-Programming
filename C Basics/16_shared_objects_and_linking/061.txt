@@ -1,0 +1,4 @@
+/*
+ * Problem 61 (16_shared_objects_and_linking)
+ * [Time: 4500s (~1h 15m)] Shared Objects & Linking L61: ensure correct compile/link flags and symbol visibility — apply to/refine problem #21 with a clear correctness criterion.
+ */

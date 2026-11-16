@@ -1,0 +1,4 @@
+/*
+ * Problem 47 (05_space_time_complexity)
+ * [Time: 3520s (~58m 40s)] Complexity L47: Consider cache/locality and constant factors beyond Big-O (extends concept from #7).
+ */

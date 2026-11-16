@@ -1,0 +1,4 @@
+/*
+ * Problem 81 (01_algorithm_writing)
+ * [Time: 5900s (~1h 38m 20s)] Trie insert/search for a set of lowercase strings.
+ */

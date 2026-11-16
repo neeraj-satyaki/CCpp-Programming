@@ -1,0 +1,4 @@
+/*
+ * Problem 6 (01_algorithm_writing)
+ * [Time: 650s (~10m 50s)] Write an algorithm to find the largest and second largest among three distinct numbers.
+ */

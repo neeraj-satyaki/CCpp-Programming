@@ -1,0 +1,4 @@
+/*
+ * Problem 38 (01_algorithm_writing)
+ * [Time: 2890s (~48m 10s)] Find the first non-repeating character in a string.
+ */

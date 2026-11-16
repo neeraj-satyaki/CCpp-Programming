@@ -1,0 +1,4 @@
+/*
+ * Problem 36 (04_bits_and_bytes)
+ * [Time: 2750s (~45m 50s)] Detect opposite signs of two integers without branching (bit trick).
+ */

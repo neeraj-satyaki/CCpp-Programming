@@ -1,0 +1,4 @@
+/*
+ * Problem 31 (11_file_io)
+ * [Time: 2400s (~40m)] Read from stdin and write to file when filename provided (tee-like basic).
+ */

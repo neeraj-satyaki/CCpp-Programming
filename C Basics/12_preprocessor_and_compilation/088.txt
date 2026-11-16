@@ -1,0 +1,4 @@
+/*
+ * Problem 88 (12_preprocessor_and_compilation)
+ * [Time: 6390s (~1h 46m 30s)] Preprocessor & Compilation L88: add automated checks for style/warnings — apply to/refine problem #8 with a clear correctness criterion.
+ */

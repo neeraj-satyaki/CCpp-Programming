@@ -1,0 +1,4 @@
+/*
+ * Problem 11 (02_pseudocode)
+ * [Time: 1000s (~16m 40s)] Write pseudocode to compute LCM of two numbers using GCD.
+ */

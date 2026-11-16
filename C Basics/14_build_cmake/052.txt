@@ -1,0 +1,4 @@
+/*
+ * Problem 52 (14_build_cmake)
+ * [Time: 3870s (~1h 4m 30s)] CMake L52: improve correctness of dependencies and include paths — apply to/refine problem #12 with a clear correctness criterion.
+ */

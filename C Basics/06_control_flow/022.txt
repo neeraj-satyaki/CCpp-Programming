@@ -1,0 +1,4 @@
+/*
+ * Problem 22 (06_control_flow)
+ * [Time: 1770s (~29m 30s)] Check whether a number is an Armstrong number for 3-digit and n-digit cases.
+ */

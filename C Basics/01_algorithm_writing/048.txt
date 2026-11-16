@@ -1,0 +1,4 @@
+/*
+ * Problem 48 (01_algorithm_writing)
+ * [Time: 3590s (~59m 50s)] Reverse a singly linked list iteratively (pointer steps).
+ */

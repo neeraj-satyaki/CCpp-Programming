@@ -1,0 +1,4 @@
+/*
+ * Problem 99 (12_preprocessor_and_compilation)
+ * [Time: 7160s (~1h 59m 20s)] Preprocessor & Compilation L99: handle third-party headers/libs integration cleanly — apply to/refine problem #19 with a clear correctness criterion.
+ */

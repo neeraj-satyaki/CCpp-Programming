@@ -1,0 +1,4 @@
+/*
+ * Problem 18 (07_functions_and_recursion)
+ * [Time: 1490s (~24m 50s)] Recursion with static/global accumulator: benefits and risks.
+ */

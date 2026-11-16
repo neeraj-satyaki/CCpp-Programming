@@ -1,0 +1,4 @@
+/*
+ * Problem 33 (08_arrays_and_strings)
+ * [Time: 2540s (~42m 20s)] Find longest common prefix among array of strings.
+ */

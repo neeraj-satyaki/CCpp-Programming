@@ -1,0 +1,4 @@
+/*
+ * Problem 39 (16_shared_objects_and_linking)
+ * [Time: 2960s (~49m 20s)] Security considerations: validating plugins and paths (conceptual).
+ */

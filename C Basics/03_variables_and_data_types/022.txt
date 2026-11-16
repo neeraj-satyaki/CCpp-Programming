@@ -1,0 +1,4 @@
+/*
+ * Problem 22 (03_variables_and_data_types)
+ * [Time: 1770s (~29m 30s)] Show difference between character literal, string literal, and char array.
+ */

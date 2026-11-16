@@ -1,0 +1,4 @@
+/*
+ * Problem 22 (10_structs_unions_enums)
+ * [Time: 1770s (~29m 30s)] Padding and alignment: inspect struct layout and reorder to reduce size.
+ */

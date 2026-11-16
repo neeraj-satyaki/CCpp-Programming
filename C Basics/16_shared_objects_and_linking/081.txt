@@ -1,0 +1,4 @@
+/*
+ * Problem 81 (16_shared_objects_and_linking)
+ * [Time: 5900s (~1h 38m 20s)] Shared Objects & Linking L81: ensure correct compile/link flags and symbol visibility — apply to/refine problem #1 with a clear correctness criterion.
+ */

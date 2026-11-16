@@ -1,0 +1,4 @@
+/*
+ * Problem 4 (15_build_ninja_meson)
+ * [Time: 510s (~8m 30s)] Build multi-file executable with Meson sources list.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 6 (15_build_ninja_meson)
+ * [Time: 650s (~10m 50s)] Create static library and link it to executable.
+ */

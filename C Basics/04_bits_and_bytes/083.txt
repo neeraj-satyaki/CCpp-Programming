@@ -1,0 +1,4 @@
+/*
+ * Problem 83 (04_bits_and_bytes)
+ * [Time: 6040s (~1h 40m 40s)] Bits & Bytes L83: Optimize for fewer operations or branchless execution where safe (extends concept from #3).
+ */

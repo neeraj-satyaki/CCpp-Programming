@@ -1,0 +1,4 @@
+/*
+ * Problem 40 (01_algorithm_writing)
+ * [Time: 3030s (~50m 30s)] Run-length encode a string (e.g., aaabb -> a3b2).
+ */

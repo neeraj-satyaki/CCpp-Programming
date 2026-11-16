@@ -1,0 +1,4 @@
+/*
+ * Problem 74 (04_bits_and_bytes)
+ * [Time: 5410s (~1h 30m 10s)] Bits & Bytes L74: Explain and test edge cases (0, all-ones, sign bit/MSB) (extends concept from #34).
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 25 (16_shared_objects_and_linking)
+ * [Time: 1980s (~33m)] Handle missing/optional plugins gracefully in host application.
+ */

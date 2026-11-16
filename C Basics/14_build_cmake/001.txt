@@ -1,0 +1,4 @@
+/*
+ * Problem 1 (14_build_cmake)
+ * [Time: 300s (~5m)] Create minimal CMake project building a single C executable.
+ */

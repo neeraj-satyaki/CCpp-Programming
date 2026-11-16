@@ -1,0 +1,4 @@
+/*
+ * Problem 50 (02_pseudocode)
+ * [Time: 3730s (~1h 2m 10s)] Write pseudocode for a capstone mini-system combining parsing, processing, and reporting (builds on #11, difficulty 50/100).
+ */

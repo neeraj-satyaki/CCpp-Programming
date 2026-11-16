@@ -1,0 +1,4 @@
+/*
+ * Problem 45 (12_preprocessor_and_compilation)
+ * [Time: 3380s (~56m 20s)] Preprocessor & Compilation L45: document each compilation/link stage and artifacts — apply to/refine problem #5 with a clear correctness criterion.
+ */

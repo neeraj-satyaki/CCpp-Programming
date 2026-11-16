@@ -1,0 +1,4 @@
+/*
+ * Problem 77 (10_structs_unions_enums)
+ * [Time: 5620s (~1h 33m 40s)] Structs/Unions/Enums L77: use const-correct APIs for read/write access — apply to/refine problem #37 with a clear correctness criterion.
+ */

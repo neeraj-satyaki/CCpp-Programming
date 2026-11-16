@@ -1,0 +1,4 @@
+/*
+ * Problem 39 (01_algorithm_writing)
+ * [Time: 2960s (~49m 20s)] Reverse words in a sentence while preserving single spaces (algorithm).
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 94 (14_build_cmake)
+ * [Time: 6810s (~1h 53m 30s)] CMake L94: add configurable options with sensible defaults — apply to/refine problem #14 with a clear correctness criterion.
+ */

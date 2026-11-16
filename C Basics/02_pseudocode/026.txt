@@ -1,0 +1,4 @@
+/*
+ * Problem 26 (02_pseudocode)
+ * [Time: 2050s (~34m 10s)] Write pseudocode for stack operations using an array with overflow/underflow checks.
+ */

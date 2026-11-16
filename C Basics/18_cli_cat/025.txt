@@ -1,0 +1,4 @@
+/*
+ * Problem 25 (18_cli_cat)
+ * [Time: 1980s (~33m)] Ensure correct behavior with empty files.
+ */

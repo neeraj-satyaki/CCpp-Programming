@@ -1,0 +1,4 @@
+/*
+ * Problem 62 (08_arrays_and_strings)
+ * [Time: 4570s (~1h 16m 10s)] Arrays & Strings L62: handle Unicode/locale considerations conceptually where relevant — apply to/refine problem #22 with a clear correctness criterion.
+ */

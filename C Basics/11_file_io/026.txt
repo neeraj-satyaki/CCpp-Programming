@@ -1,0 +1,4 @@
+/*
+ * Problem 26 (11_file_io)
+ * [Time: 2050s (~34m 10s)] Implement head-like: print first N lines of a file.
+ */

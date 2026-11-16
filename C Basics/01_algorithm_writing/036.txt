@@ -1,0 +1,4 @@
+/*
+ * Problem 36 (01_algorithm_writing)
+ * [Time: 2750s (~45m 50s)] Find the single non-repeating element when all others appear twice (XOR-based algorithm).
+ */

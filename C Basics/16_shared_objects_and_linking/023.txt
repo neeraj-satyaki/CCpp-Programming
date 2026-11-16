@@ -1,0 +1,4 @@
+/*
+ * Problem 23 (16_shared_objects_and_linking)
+ * [Time: 1840s (~30m 40s)] RPATH vs RUNPATH basics and when to use them.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 12 (16_shared_objects_and_linking)
+ * [Time: 1070s (~17m 50s)] Differentiate static vs dynamic linking trade-offs in a short report.
+ */

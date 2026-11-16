@@ -1,0 +1,4 @@
+/*
+ * Problem 69 (14_build_cmake)
+ * [Time: 5060s (~1h 24m 20s)] CMake L69: document and validate consumer usage — apply to/refine problem #29 with a clear correctness criterion.
+ */

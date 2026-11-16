@@ -1,0 +1,4 @@
+/*
+ * Problem 6 (03_variables_and_data_types)
+ * [Time: 650s (~10m 50s)] Use explicit casts to control division result and avoid unintended truncation.
+ */

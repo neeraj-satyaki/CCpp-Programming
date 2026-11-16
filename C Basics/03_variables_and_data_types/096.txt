@@ -1,0 +1,4 @@
+/*
+ * Problem 96 (03_variables_and_data_types)
+ * [Time: 6950s (~1h 55m 50s)] Variables & Types L96: Prevent undefined behavior and explain the safeguards (extends concept from #16).
+ */

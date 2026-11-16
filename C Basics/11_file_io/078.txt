@@ -1,0 +1,4 @@
+/*
+ * Problem 78 (11_file_io)
+ * [Time: 5690s (~1h 34m 50s)] File I/O L78: provide clear diagnostics with line/byte offsets — apply to/refine problem #38 with a clear correctness criterion.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 21 (01_algorithm_writing)
+ * [Time: 1700s (~28m 20s)] Compute power(x, n) for integer n >= 0 using repeated multiplication.
+ */

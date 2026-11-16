@@ -1,0 +1,4 @@
+/*
+ * Problem 85 (01_algorithm_writing)
+ * [Time: 6180s (~1h 43m)] N-Queens: backtracking algorithm to place N queens safely.
+ */

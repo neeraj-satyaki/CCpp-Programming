@@ -1,0 +1,4 @@
+/*
+ * Problem 5 (18_cli_cat)
+ * [Time: 580s (~9m 40s)] Treat `-` as stdin in file argument list.
+ */

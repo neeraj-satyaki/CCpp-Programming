@@ -1,0 +1,4 @@
+/*
+ * Problem 93 (18_cli_cat)
+ * [Time: 6740s (~1h 52m 20s)] CLI cat L93: handle I/O errors with precise diagnostics and exit codes — apply to/refine problem #13 with a clear correctness criterion.
+ */

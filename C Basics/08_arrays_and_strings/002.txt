@@ -1,0 +1,4 @@
+/*
+ * Problem 2 (08_arrays_and_strings)
+ * [Time: 370s (~6m 10s)] Find min, max, sum, and average of array elements.
+ */

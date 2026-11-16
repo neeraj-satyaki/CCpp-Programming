@@ -1,0 +1,4 @@
+/*
+ * Problem 45 (18_cli_cat)
+ * [Time: 3380s (~56m 20s)] CLI cat L45: ensure compatibility nuances are documented — apply to/refine problem #5 with a clear correctness criterion.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 40 (02_pseudocode)
+ * [Time: 3030s (~50m 30s)] Write pseudocode for sliding window to find longest substring without repeats.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 51 (14_build_cmake)
+ * [Time: 3800s (~1h 3m 20s)] CMake L51: apply modern target-based CMake practices — apply to/refine problem #11 with a clear correctness criterion.
+ */

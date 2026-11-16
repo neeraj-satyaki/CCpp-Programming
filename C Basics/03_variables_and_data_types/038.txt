@@ -1,0 +1,4 @@
+/*
+ * Problem 38 (03_variables_and_data_types)
+ * [Time: 2890s (~48m 10s)] Show effects of integer truncation when assigning larger type to smaller type.
+ */

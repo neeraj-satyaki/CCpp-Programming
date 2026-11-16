@@ -1,0 +1,4 @@
+/*
+ * Problem 37 (14_build_cmake)
+ * [Time: 2820s (~47m)] Build both static and shared variants with controlled names.
+ */

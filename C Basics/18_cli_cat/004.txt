@@ -1,0 +1,4 @@
+/*
+ * Problem 4 (18_cli_cat)
+ * [Time: 510s (~8m 30s)] Read from standard input when no files are provided.
+ */

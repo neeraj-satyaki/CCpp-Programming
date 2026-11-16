@@ -1,0 +1,4 @@
+/*
+ * Problem 40 (04_bits_and_bytes)
+ * [Time: 3030s (~50m 30s)] Serialize/deserialize a struct's selected fields into a compact bitstream buffer.
+ */

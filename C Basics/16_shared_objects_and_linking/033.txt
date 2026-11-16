@@ -1,0 +1,4 @@
+/*
+ * Problem 33 (16_shared_objects_and_linking)
+ * [Time: 2540s (~42m 20s)] Pass configuration structs across shared library boundary safely.
+ */

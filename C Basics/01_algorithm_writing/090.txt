@@ -1,0 +1,4 @@
+/*
+ * Problem 90 (01_algorithm_writing)
+ * [Time: 6530s (~1h 48m 50s)] KMP string matching: build LPS array and search pattern.
+ */

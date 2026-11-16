@@ -1,0 +1,4 @@
+/*
+ * Problem 87 (05_space_time_complexity)
+ * [Time: 6320s (~1h 45m 20s)] Complexity L87: Consider cache/locality and constant factors beyond Big-O (extends concept from #7).
+ */

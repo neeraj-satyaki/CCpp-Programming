@@ -1,0 +1,4 @@
+/*
+ * Problem 72 (20_cli_arp_ifconfig)
+ * [Time: 5270s (~1h 27m 50s)] CLI arp/ifconfig L72: add clearer formatting and user-friendly output — apply to/refine problem #32 with a clear correctness criterion.
+ */

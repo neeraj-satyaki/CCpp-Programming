@@ -1,0 +1,4 @@
+/*
+ * Problem 38 (07_functions_and_recursion)
+ * [Time: 2890s (~48m 10s)] Filter-like function selecting elements based on predicate callback.
+ */

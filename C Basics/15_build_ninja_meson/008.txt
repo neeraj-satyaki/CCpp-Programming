@@ -1,0 +1,4 @@
+/*
+ * Problem 8 (15_build_ninja_meson)
+ * [Time: 790s (~13m 10s)] Define project version and pass it as config/define.
+ */

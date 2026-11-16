@@ -1,0 +1,4 @@
+/*
+ * Problem 28 (02_pseudocode)
+ * [Time: 2190s (~36m 30s)] Write pseudocode to reverse a linked list iteratively.
+ */

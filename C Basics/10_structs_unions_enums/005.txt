@@ -1,0 +1,4 @@
+/*
+ * Problem 5 (10_structs_unions_enums)
+ * [Time: 580s (~9m 40s)] Return struct from a function (e.g., compute rectangle properties).
+ */

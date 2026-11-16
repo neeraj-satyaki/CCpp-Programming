@@ -1,0 +1,4 @@
+/*
+ * Problem 24 (20_cli_arp_ifconfig)
+ * [Time: 1910s (~31m 50s)] Implement JSON-like or machine-readable output option (simple).
+ */

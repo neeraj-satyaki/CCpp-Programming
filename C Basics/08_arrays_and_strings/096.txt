@@ -1,0 +1,4 @@
+/*
+ * Problem 96 (08_arrays_and_strings)
+ * [Time: 6950s (~1h 55m 50s)] Arrays & Strings L96: write reusable functions with clear ownership of memory — apply to/refine problem #16 with a clear correctness criterion.
+ */

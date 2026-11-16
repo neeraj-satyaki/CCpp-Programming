@@ -1,0 +1,4 @@
+/*
+ * Problem 96 (18_cli_cat)
+ * [Time: 6950s (~1h 55m 50s)] CLI cat L96: support combined flags and stdin/file mixing thoroughly — apply to/refine problem #16 with a clear correctness criterion.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 20 (15_build_ninja_meson)
+ * [Time: 1630s (~27m 10s)] Use `find_program()` for required tools and fail with clear message.
+ */

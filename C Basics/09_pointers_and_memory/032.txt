@@ -1,0 +1,4 @@
+/*
+ * Problem 32 (09_pointers_and_memory)
+ * [Time: 2470s (~41m 10s)] Implement dynamic stack (push/pop) using pointers and realloc growth.
+ */

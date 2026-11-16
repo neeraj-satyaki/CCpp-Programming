@@ -1,0 +1,4 @@
+/*
+ * Problem 41 (03_variables_and_data_types)
+ * [Time: 3100s (~51m 40s)] Variables & Types L41: Add strict input validation and meaningful error reporting (extends concept from #1).
+ */

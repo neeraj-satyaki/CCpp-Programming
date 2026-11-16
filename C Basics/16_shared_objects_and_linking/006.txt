@@ -1,0 +1,4 @@
+/*
+ * Problem 6 (16_shared_objects_and_linking)
+ * [Time: 650s (~10m 50s)] Set and inspect soname/versioned shared library filenames (concept).
+ */

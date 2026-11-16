@@ -1,0 +1,4 @@
+/*
+ * Problem 62 (01_algorithm_writing)
+ * [Time: 4570s (~1h 16m 10s)] Detect a cycle in a directed graph using DFS colors/recursion stack.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 30 (20_cli_arp_ifconfig)
+ * [Time: 2330s (~38m 50s)] Abstract data collection behind functions per source (procfs/ioctl/netlink concept).
+ */

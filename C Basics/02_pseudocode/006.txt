@@ -1,0 +1,4 @@
+/*
+ * Problem 6 (02_pseudocode)
+ * [Time: 650s (~10m 50s)] Write pseudocode to count the number of digits in an integer (including 0).
+ */

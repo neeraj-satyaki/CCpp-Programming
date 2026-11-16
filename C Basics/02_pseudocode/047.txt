@@ -1,0 +1,4 @@
+/*
+ * Problem 47 (02_pseudocode)
+ * [Time: 3520s (~58m 40s)] Adapt pseudocode to work on streaming input where full data cannot fit in memory (builds on #8, difficulty 47/100).
+ */

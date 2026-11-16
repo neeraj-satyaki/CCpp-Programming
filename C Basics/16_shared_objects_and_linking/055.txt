@@ -1,0 +1,4 @@
+/*
+ * Problem 55 (16_shared_objects_and_linking)
+ * [Time: 4080s (~1h 8m)] Shared Objects & Linking L55: make builds relocatable and install-friendly — apply to/refine problem #15 with a clear correctness criterion.
+ */

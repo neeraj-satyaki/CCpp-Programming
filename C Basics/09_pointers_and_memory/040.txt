@@ -1,0 +1,4 @@
+/*
+ * Problem 40 (09_pointers_and_memory)
+ * [Time: 3030s (~50m 30s)] Capstone: implement a small dynamic container (vector/list/map-lite) with clear memory ownership rules.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 36 (18_cli_cat)
+ * [Time: 2750s (~45m 50s)] Detect stdout write errors (e.g., broken pipe) handling.
+ */

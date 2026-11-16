@@ -1,0 +1,4 @@
+/*
+ * Problem 36 (03_variables_and_data_types)
+ * [Time: 2750s (~45m 50s)] Implement a type-safe input wrapper for integers with range checking.
+ */

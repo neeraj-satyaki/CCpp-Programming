@@ -1,0 +1,4 @@
+/*
+ * Problem 7 (02_pseudocode)
+ * [Time: 720s (~12m)] Write pseudocode to compute sum and product of digits of an integer.
+ */

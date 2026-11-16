@@ -1,0 +1,4 @@
+/*
+ * Problem 20 (16_shared_objects_and_linking)
+ * [Time: 1630s (~27m 10s)] Use constructor/destructor attributes in shared libraries (demo).
+ */

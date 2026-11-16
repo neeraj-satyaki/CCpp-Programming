@@ -1,0 +1,4 @@
+/*
+ * Problem 16 (05_space_time_complexity)
+ * [Time: 1350s (~22m 30s)] Hash table average vs worst-case lookup; discuss collision impact.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 87 (01_algorithm_writing)
+ * [Time: 6320s (~1h 45m 20s)] Sudoku solver outline using backtracking with constraint checks.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 2 (03_variables_and_data_types)
+ * [Time: 370s (~6m 10s)] Show sizes (in bytes) of all basic C integer and floating types on your system using `sizeof`.
+ */

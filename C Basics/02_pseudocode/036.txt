@@ -1,0 +1,4 @@
+/*
+ * Problem 36 (02_pseudocode)
+ * [Time: 2750s (~45m 50s)] Write pseudocode for inorder traversal of a binary tree.
+ */

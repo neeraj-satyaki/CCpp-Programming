@@ -1,0 +1,4 @@
+/*
+ * Problem 89 (17_cli_ls)
+ * [Time: 6460s (~1h 47m 40s)] CLI ls L89: refactor into modular components (parse, stat, sort, print) — apply to/refine problem #9 with a clear correctness criterion.
+ */

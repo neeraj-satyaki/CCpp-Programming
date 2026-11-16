@@ -1,0 +1,4 @@
+/*
+ * Problem 53 (18_cli_cat)
+ * [Time: 3940s (~1h 5m 40s)] CLI cat L53: handle I/O errors with precise diagnostics and exit codes — apply to/refine problem #13 with a clear correctness criterion.
+ */

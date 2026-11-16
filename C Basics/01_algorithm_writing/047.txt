@@ -1,0 +1,4 @@
+/*
+ * Problem 47 (01_algorithm_writing)
+ * [Time: 3520s (~58m 40s)] Detect if a linked list has a cycle using Floyd's tortoise and hare (algorithm).
+ */

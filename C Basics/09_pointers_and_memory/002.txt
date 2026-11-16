@@ -1,0 +1,4 @@
+/*
+ * Problem 2 (09_pointers_and_memory)
+ * [Time: 370s (~6m 10s)] Demonstrate pointer arithmetic across an int array.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 8 (08_arrays_and_strings)
+ * [Time: 790s (~13m 10s)] Remove duplicates from an unsorted array.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 9 (06_control_flow)
+ * [Time: 860s (~14m 20s)] Print a right-angled triangle star pattern of height N.
+ */

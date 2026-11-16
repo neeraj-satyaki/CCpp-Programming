@@ -1,0 +1,4 @@
+/*
+ * Problem 4 (02_pseudocode)
+ * [Time: 510s (~8m 30s)] Write pseudocode to generate first N Fibonacci terms and handle N <= 0.
+ */

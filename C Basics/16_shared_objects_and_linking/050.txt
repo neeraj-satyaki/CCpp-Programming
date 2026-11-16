@@ -1,0 +1,4 @@
+/*
+ * Problem 50 (16_shared_objects_and_linking)
+ * [Time: 3730s (~1h 2m 10s)] Shared Objects & Linking L50: capstone: deliver a reliable plugin-capable system — apply to/refine problem #10 with a clear correctness criterion.
+ */

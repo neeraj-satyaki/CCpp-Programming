@@ -1,0 +1,4 @@
+/*
+ * Problem 16 (08_arrays_and_strings)
+ * [Time: 1350s (~22m 30s)] Implement string length, copy, compare without standard library functions.
+ */

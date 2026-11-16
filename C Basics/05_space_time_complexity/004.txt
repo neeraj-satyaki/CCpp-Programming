@@ -1,0 +1,4 @@
+/*
+ * Problem 4 (05_space_time_complexity)
+ * [Time: 510s (~8m 30s)] Implement binary search; prove O(log N) comparisons.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 10 (02_pseudocode)
+ * [Time: 930s (~15m 30s)] Write pseudocode for Euclid's GCD algorithm (iterative).
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 30 (01_algorithm_writing)
+ * [Time: 2330s (~38m 50s)] Sort an array using selection sort; count comparisons.
+ */

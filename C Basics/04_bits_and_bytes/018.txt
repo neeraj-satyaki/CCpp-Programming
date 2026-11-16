@@ -1,0 +1,4 @@
+/*
+ * Problem 18 (04_bits_and_bytes)
+ * [Time: 1490s (~24m 50s)] Convert between binary string and integer value manually.
+ */

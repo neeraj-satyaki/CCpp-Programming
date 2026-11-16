@@ -1,0 +1,4 @@
+/*
+ * Problem 1 (16_shared_objects_and_linking)
+ * [Time: 300s (~5m)] Compile and link a single C program; inspect with `file` and `nm`.
+ */

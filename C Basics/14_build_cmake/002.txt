@@ -1,0 +1,4 @@
+/*
+ * Problem 2 (14_build_cmake)
+ * [Time: 370s (~6m 10s)] Configure out-of-source build (`cmake -S . -B build`).
+ */

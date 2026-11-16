@@ -1,0 +1,4 @@
+/*
+ * Problem 50 (10_structs_unions_enums)
+ * [Time: 3730s (~1h 2m 10s)] Structs/Unions/Enums L50: capstone: integrate into a coherent, well-documented module — apply to/refine problem #10 with a clear correctness criterion.
+ */

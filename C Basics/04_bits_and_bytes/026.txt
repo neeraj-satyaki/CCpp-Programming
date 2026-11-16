@@ -1,0 +1,4 @@
+/*
+ * Problem 26 (04_bits_and_bytes)
+ * [Time: 2050s (~34m 10s)] Find the only number appearing once when others appear twice (XOR).
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 40 (18_cli_cat)
+ * [Time: 3030s (~50m 30s)] Capstone: build a reliable `mycat` implementing a well-defined subset of options with strong correctness and error handling.
+ */

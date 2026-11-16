@@ -1,0 +1,4 @@
+/*
+ * Problem 39 (08_arrays_and_strings)
+ * [Time: 2960s (~49m 20s)] Implement Rabin-Karp or KMP for pattern matching in strings.
+ */

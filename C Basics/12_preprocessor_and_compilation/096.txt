@@ -1,0 +1,4 @@
+/*
+ * Problem 96 (12_preprocessor_and_compilation)
+ * [Time: 6950s (~1h 55m 50s)] Preprocessor & Compilation L96: ensure portability across compilers/standards where possible — apply to/refine problem #16 with a clear correctness criterion.
+ */

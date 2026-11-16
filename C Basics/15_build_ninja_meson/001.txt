@@ -1,0 +1,4 @@
+/*
+ * Problem 1 (15_build_ninja_meson)
+ * [Time: 300s (~5m)] Create minimal `meson.build` for a C 'hello world' executable.
+ */

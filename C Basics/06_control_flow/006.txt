@@ -1,0 +1,4 @@
+/*
+ * Problem 6 (06_control_flow)
+ * [Time: 650s (~10m 50s)] Find all factors of N and count how many are prime.
+ */

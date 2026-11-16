@@ -1,0 +1,4 @@
+/*
+ * Problem 3 (11_file_io)
+ * [Time: 440s (~7m 20s)] Read a file line by line using `fgets` and count lines.
+ */

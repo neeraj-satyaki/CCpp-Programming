@@ -1,0 +1,4 @@
+/*
+ * Problem 34 (09_pointers_and_memory)
+ * [Time: 2610s (~43m 30s)] Serialize pointer-based structure carefully (no raw pointers) to a buffer/file.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 51 (12_preprocessor_and_compilation)
+ * [Time: 3800s (~1h 3m 20s)] Preprocessor & Compilation L51: add clear module boundaries and include hygiene — apply to/refine problem #11 with a clear correctness criterion.
+ */

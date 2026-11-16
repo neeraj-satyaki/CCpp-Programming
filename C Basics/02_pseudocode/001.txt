@@ -1,0 +1,4 @@
+/*
+ * Problem 1 (02_pseudocode)
+ * [Time: 300s (~5m)] Write pseudocode to read an integer and print whether it is positive, negative, or zero.
+ */

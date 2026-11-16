@@ -1,0 +1,4 @@
+/*
+ * Problem 15 (16_shared_objects_and_linking)
+ * [Time: 1280s (~21m 20s)] Create a plugin interface using C function pointers.
+ */

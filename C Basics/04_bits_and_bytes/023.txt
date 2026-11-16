@@ -1,0 +1,4 @@
+/*
+ * Problem 23 (04_bits_and_bytes)
+ * [Time: 1840s (~30m 40s)] Implement a simple checksum (XOR of bytes) for a buffer.
+ */

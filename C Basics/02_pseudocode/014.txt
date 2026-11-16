@@ -1,0 +1,4 @@
+/*
+ * Problem 14 (02_pseudocode)
+ * [Time: 1210s (~20m 10s)] Write pseudocode to find the second largest element in an array.
+ */

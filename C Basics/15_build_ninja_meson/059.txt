@@ -1,0 +1,4 @@
+/*
+ * Problem 59 (15_build_ninja_meson)
+ * [Time: 4360s (~1h 12m 40s)] Meson & Ninja L59: validate with clean setup/build/test/install cycles — apply to/refine problem #19 with a clear correctness criterion.
+ */

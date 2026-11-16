@@ -1,0 +1,4 @@
+/*
+ * Problem 31 (10_structs_unions_enums)
+ * [Time: 2400s (~40m)] Struct assignment semantics and caveats with pointer members.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 10 (08_arrays_and_strings)
+ * [Time: 930s (~15m 30s)] Merge two arrays and sort the result.
+ */

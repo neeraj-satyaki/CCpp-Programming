@@ -1,0 +1,4 @@
+/*
+ * Problem 13 (02_pseudocode)
+ * [Time: 1140s (~19m)] Write pseudocode to check if a string is a palindrome ignoring case.
+ */

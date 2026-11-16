@@ -1,0 +1,4 @@
+/*
+ * Problem 23 (02_pseudocode)
+ * [Time: 1840s (~30m 40s)] Write pseudocode to find GCD of an array of numbers.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 60 (08_arrays_and_strings)
+ * [Time: 4430s (~1h 13m 50s)] Arrays & Strings L60: build a capstone text/array processing mini-tool — apply to/refine problem #20 with a clear correctness criterion.
+ */

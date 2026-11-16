@@ -1,0 +1,4 @@
+/*
+ * Problem 27 (01_algorithm_writing)
+ * [Time: 2120s (~35m 20s)] Search for a key in an unsorted array using linear search and return its index or -1.
+ */

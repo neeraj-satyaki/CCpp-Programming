@@ -1,0 +1,4 @@
+/*
+ * Problem 75 (01_algorithm_writing)
+ * [Time: 5480s (~1h 31m 20s)] Find median of two sorted arrays of same size (algorithmic approach).
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 56 (01_algorithm_writing)
+ * [Time: 4150s (~1h 9m 10s)] Insert and search in a binary search tree (BST).
+ */

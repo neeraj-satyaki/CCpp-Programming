@@ -1,0 +1,4 @@
+/*
+ * Problem 98 (03_variables_and_data_types)
+ * [Time: 7090s (~1h 58m 10s)] Variables & Types L98: Extend to support wider ranges using fixed-width or 64-bit types (extends concept from #18).
+ */

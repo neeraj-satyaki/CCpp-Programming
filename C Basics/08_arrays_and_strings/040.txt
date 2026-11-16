@@ -1,0 +1,4 @@
+/*
+ * Problem 40 (08_arrays_and_strings)
+ * [Time: 3030s (~50m 30s)] Build a simple line editor buffer supporting insert/delete operations on char array.
+ */

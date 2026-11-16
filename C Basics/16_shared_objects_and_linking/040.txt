@@ -1,0 +1,4 @@
+/*
+ * Problem 40 (16_shared_objects_and_linking)
+ * [Time: 3030s (~50m 30s)] Capstone: build a modular C application with core + dynamically loaded plugins, clean ABI, and robust runtime linking.
+ */

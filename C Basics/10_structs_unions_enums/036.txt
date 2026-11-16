@@ -1,0 +1,4 @@
+/*
+ * Problem 36 (10_structs_unions_enums)
+ * [Time: 2750s (~45m 50s)] State machine modeled with enum states and transition table of structs.
+ */

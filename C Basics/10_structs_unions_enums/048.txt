@@ -1,0 +1,4 @@
+/*
+ * Problem 48 (10_structs_unions_enums)
+ * [Time: 3590s (~59m 50s)] Structs/Unions/Enums L48: manage ownership/lifetime of pointer members — apply to/refine problem #8 with a clear correctness criterion.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 7 (08_arrays_and_strings)
+ * [Time: 720s (~12m)] Delete an element at a given position in an array.
+ */

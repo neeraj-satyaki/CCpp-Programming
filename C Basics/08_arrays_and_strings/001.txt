@@ -1,0 +1,4 @@
+/*
+ * Problem 1 (08_arrays_and_strings)
+ * [Time: 300s (~5m)] Input N integers into an array and print them in reverse order.
+ */

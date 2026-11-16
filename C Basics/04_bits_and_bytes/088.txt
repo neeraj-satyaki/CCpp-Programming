@@ -1,0 +1,4 @@
+/*
+ * Problem 88 (04_bits_and_bytes)
+ * [Time: 6390s (~1h 46m 30s)] Bits & Bytes L88: Add visualization of intermediate bit states for debugging (extends concept from #8).
+ */

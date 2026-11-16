@@ -1,0 +1,4 @@
+/*
+ * Problem 87 (15_build_ninja_meson)
+ * [Time: 6320s (~1h 45m 20s)] Meson & Ninja L87: refactor into modular subdir build definitions — apply to/refine problem #7 with a clear correctness criterion.
+ */

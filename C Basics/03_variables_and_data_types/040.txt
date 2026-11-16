@@ -1,0 +1,4 @@
+/*
+ * Problem 40 (03_variables_and_data_types)
+ * [Time: 3030s (~50m 30s)] Write a program that serializes basic typed values to a text line and parses them back.
+ */

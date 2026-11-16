@@ -1,0 +1,4 @@
+/*
+ * Problem 42 (07_functions_and_recursion)
+ * [Time: 3170s (~52m 50s)] Functions & Recursion L42: separate interface (.h) from implementation (.c) — apply to/refine problem #2 with a clear correctness criterion.
+ */

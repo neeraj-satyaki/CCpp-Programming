@@ -1,0 +1,4 @@
+/*
+ * Problem 22 (17_cli_ls)
+ * [Time: 1770s (~29m 30s)] Colorize output by type when stdout is a terminal (optional flag).
+ */

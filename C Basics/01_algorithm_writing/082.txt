@@ -1,0 +1,4 @@
+/*
+ * Problem 82 (01_algorithm_writing)
+ * [Time: 5970s (~1h 39m 30s)] Word break problem: can a string be segmented into dictionary words (DP).
+ */

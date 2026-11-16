@@ -1,0 +1,4 @@
+/*
+ * Problem 36 (16_shared_objects_and_linking)
+ * [Time: 2750s (~45m 50s)] Package shared library with headers for consumer project.
+ */

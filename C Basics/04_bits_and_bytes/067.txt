@@ -1,0 +1,4 @@
+/*
+ * Problem 67 (04_bits_and_bytes)
+ * [Time: 4920s (~1h 22m)] Bits & Bytes L67: Refactor into reusable bit-utility functions/macros with clear contracts (extends concept from #27).
+ */

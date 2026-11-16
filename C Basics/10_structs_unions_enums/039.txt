@@ -1,0 +1,4 @@
+/*
+ * Problem 39 (10_structs_unions_enums)
+ * [Time: 2960s (~49m 20s)] Validate struct invariants with constructor/init functions.
+ */

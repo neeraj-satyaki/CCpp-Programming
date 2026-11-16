@@ -1,0 +1,4 @@
+/*
+ * Problem 19 (17_cli_ls)
+ * [Time: 1560s (~26m)] Align columns neatly in long listing output.
+ */

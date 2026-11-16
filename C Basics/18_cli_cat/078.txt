@@ -1,0 +1,4 @@
+/*
+ * Problem 78 (18_cli_cat)
+ * [Time: 5690s (~1h 34m 50s)] CLI cat L78: add regression tests against known cases — apply to/refine problem #38 with a clear correctness criterion.
+ */

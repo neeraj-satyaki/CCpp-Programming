@@ -1,0 +1,4 @@
+/*
+ * Problem 42 (05_space_time_complexity)
+ * [Time: 3170s (~52m 50s)] Complexity L42: Provide best/average/worst-case analysis with example inputs (extends concept from #2).
+ */

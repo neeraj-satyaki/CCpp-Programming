@@ -1,0 +1,4 @@
+/*
+ * Problem 8 (16_shared_objects_and_linking)
+ * [Time: 790s (~13m 10s)] Inspect runtime dependencies with `ldd` and interpret output.
+ */

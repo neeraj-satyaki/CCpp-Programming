@@ -1,0 +1,4 @@
+/*
+ * Problem 32 (05_space_time_complexity)
+ * [Time: 2470s (~41m 10s)] Analyze memory layout/cache effects conceptually for array vs linked list traversal.
+ */

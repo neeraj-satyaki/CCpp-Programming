@@ -1,0 +1,4 @@
+/*
+ * Problem 76 (04_bits_and_bytes)
+ * [Time: 5550s (~1h 32m 30s)] Bits & Bytes L76: Make the implementation portable across architectures/endianness (extends concept from #36).
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 72 (09_pointers_and_memory)
+ * [Time: 5270s (~1h 27m 50s)] Pointers & Memory L72: eliminate leaks and use-after-free with clear ownership — apply to/refine problem #32 with a clear correctness criterion.
+ */

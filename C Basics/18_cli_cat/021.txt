@@ -1,0 +1,4 @@
+/*
+ * Problem 21 (18_cli_cat)
+ * [Time: 1700s (~28m 20s)] Compare performance of `fread` loop vs line-based reading.
+ */

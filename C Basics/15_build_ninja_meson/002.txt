@@ -1,0 +1,4 @@
+/*
+ * Problem 2 (15_build_ninja_meson)
+ * [Time: 370s (~6m 10s)] Configure build directory with `meson setup builddir` and compile with `ninja`.
+ */

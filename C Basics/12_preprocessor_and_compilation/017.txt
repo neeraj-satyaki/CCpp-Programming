@@ -1,0 +1,4 @@
+/*
+ * Problem 17 (12_preprocessor_and_compilation)
+ * [Time: 1420s (~23m 40s)] Demonstrate `static` functions/variables at file scope for internal linkage.
+ */

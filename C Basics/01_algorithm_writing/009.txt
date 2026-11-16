@@ -1,0 +1,4 @@
+/*
+ * Problem 9 (01_algorithm_writing)
+ * [Time: 860s (~14m 20s)] Compute simple interest and total amount given principal, rate, and time with input validation.
+ */

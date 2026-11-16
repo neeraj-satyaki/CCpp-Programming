@@ -1,0 +1,4 @@
+/*
+ * Problem 3 (08_arrays_and_strings)
+ * [Time: 440s (~7m 20s)] Copy one array to another and verify equality.
+ */

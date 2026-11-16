@@ -1,0 +1,4 @@
+/*
+ * Problem 5 (13_build_make)
+ * [Time: 580s (~9m 40s)] Use pattern rule `%.o: %.c` to simplify compilation.
+ */

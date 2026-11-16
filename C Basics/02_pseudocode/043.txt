@@ -1,0 +1,4 @@
+/*
+ * Problem 43 (02_pseudocode)
+ * [Time: 3240s (~54m)] Transform iterative pseudocode into a recursive variant with clear base/recursive cases (builds on #4, difficulty 43/100).
+ */

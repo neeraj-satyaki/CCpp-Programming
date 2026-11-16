@@ -1,0 +1,4 @@
+/*
+ * Problem 40 (10_structs_unions_enums)
+ * [Time: 3030s (~50m 30s)] Capstone: design a modular data model (multiple structs/enums/unions) for a mini inventory system with persistence.
+ */

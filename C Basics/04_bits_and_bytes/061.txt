@@ -1,0 +1,4 @@
+/*
+ * Problem 61 (04_bits_and_bytes)
+ * [Time: 4500s (~1h 15m)] Bits & Bytes L61: Validate bit positions/ranges and handle invalid inputs safely (extends concept from #21).
+ */

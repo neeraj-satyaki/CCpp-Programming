@@ -1,0 +1,4 @@
+/*
+ * Problem 7 (09_pointers_and_memory)
+ * [Time: 720s (~12m)] Use pointer to char to iterate over a string.
+ */

@@ -1,0 +1,4 @@
+/*
+ * Problem 28 (08_arrays_and_strings)
+ * [Time: 2190s (~36m 30s)] Implement dynamic array growth strategy (manual realloc).
+ */
